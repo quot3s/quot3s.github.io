@@ -210,6 +210,10 @@ title: Wisdom & Wit
     <div class="quote-text">Did Ayn Rand's Atlas Shrugged traumatized you as well?</div>
   </div>
 
+  <div class="quote-card">
+    <div class="quote-text">Only skills/degree acquired pre-AI are legit.</div>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
