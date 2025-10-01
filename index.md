@@ -246,13 +246,12 @@ title: Wisdom & Wit
     <div class="quote-text"><em>Interesting Read...</em><a href="https://www.gotquestions.org/content_end-times_people.html">End Times</a>. Bookmark This Link.</div>
   </div>
 
-
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
 
   <div class="disclaimer">
-    <p>Chances of confusing wit over wisdom and vice-versa is highly likely.</p>
+    <p>The tech industry did me dirty. So, here are the dirty thirty quotes.</p>
   </div>
 </div>
 
