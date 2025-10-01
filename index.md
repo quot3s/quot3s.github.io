@@ -242,6 +242,11 @@ title: Wisdom & Wit
     <div class="quote-text">Mr. Musk made claims of starting a new party. Never did. Switches sides every now and then. What on Earth, Sir? </div>
   </div>
 
+  <div class="quote-card">
+    <div class="quote-text"><em>Interesting Read...</em><a href="https://www.gotquestions.org/content_end-times_people.html">End Times</a>. Bookmark This Link.</div>
+  </div>
+
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
