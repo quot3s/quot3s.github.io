@@ -214,6 +214,14 @@ title: Wisdom & Wit
     <div class="quote-text">Only skills/degree acquired pre-AI era are legit, critical thinking & problem solving got offshored later.</div>
   </div>
 
+  <div class="quote-card">
+    <div class="quote-text">Here's how AI Chatbot works -> Garbage In Garbage Out (GIGO). Later, the garbage piles up over time.</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">New distractions everyday. Nothing of any substance anymore.</div>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
