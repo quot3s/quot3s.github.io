@@ -191,7 +191,7 @@ title: Wisdom & Wit
   </div>
 
   <div class="quote-card">
-    <div class="quote-text">Bug Bounty, freelancing or back to 9-5 or all of them. What would you do if given a choice?</div>
+    <div class="quote-text">Bug Bounty, Freelancing, getting back to 9-5 or all of them. What would you do if given a choice?</div>
   </div>
 
   <div class="quote-card">
@@ -202,6 +202,9 @@ title: Wisdom & Wit
     <div class="quote-text">Looks like all the western world is shut down. I'll wait till 2026.</div>
   </div>
 
+  <div class="quote-card">
+    <div class="quote-text">The West is more individualistic, while the East is more collectivistic. Each has it's own merits. Pick one to your liking.</div>
+  </div>
 
   <div class="footer">
     <p>© 2025 - Curated with care</p>
