@@ -211,7 +211,7 @@ title: Wisdom & Wit
   </div>
 
   <div class="quote-card">
-    <div class="quote-text">Only skills/degree acquired pre-AI are legit.</div>
+    <div class="quote-text">Only skills/degree acquired pre-AI era are legit, critical thinking & problem solving got offshored later.</div>
   </div>
 
   <div class="footer">
