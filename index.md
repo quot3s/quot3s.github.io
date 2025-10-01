@@ -199,8 +199,9 @@ title: Wisdom & Wit
   </div>
 
   <div class="quote-card">
-    <div class="quote-text">I am just a human. Not alien.</div>
+    <div class="quote-text">Looks like all the western world is shut down. I'll wait till 2026.</div>
   </div>
+
 
   <div class="footer">
     <p>© 2025 - Curated with care</p>
