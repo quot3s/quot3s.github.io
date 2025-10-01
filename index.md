@@ -190,6 +190,18 @@ title: Wisdom & Wit
     <div class="quote-text">To quote or not to quote. To quote means to get yourself in trouble #troublemakers. To not quote means to play it safe and let the work and other factors do all the talking.</div>
   </div>
 
+  <div class="quote-card">
+    <div class="quote-text">Bug Bounty, freelancing or back to 9-5 or all of them. What would you do if given a choice?</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">Inter-related quote - I can do all of the above alone just so you know without any disord or community help, kind of like independent researcher/individual contributor. Just with pure goolging and AI now.</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">I am just a human. Not alien.</div>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
