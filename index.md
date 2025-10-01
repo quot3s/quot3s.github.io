@@ -182,6 +182,14 @@ title: Wisdom & Wit
     <div class="quote-text">You gotta leave the homeland to prosper abroad.</div>
   </div>
 
+  <div class="quote-card">
+    <div class="quote-text">DM CEO's (especially of flat orgs) and let them know that you applied for some jobs.</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">To quote or not to quote. To quote means to get yourself in trouble #troublemakers. To not quote means to play it safe and let the work and other factors do all the talking.</div>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
