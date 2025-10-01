@@ -206,6 +206,10 @@ title: Wisdom & Wit
     <div class="quote-text">The West is more individualistic, while the East is more collectivistic. Each has it's own merits. Pick one to your liking.</div>
   </div>
 
+  <div class="quote-card">
+    <div class="quote-text">Did Ayn Rand's Atlas Shrugged traumatized you as well?</div>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
