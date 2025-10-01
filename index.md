@@ -222,6 +222,26 @@ title: Wisdom & Wit
     <div class="quote-text">New distractions everyday. Nothing of any substance anymore.</div>
   </div>
 
+  <div class="quote-card">
+    <div class="quote-text">Recently, I learnt that petty people run smear campaigns for years, never get tired of doing it and sheeps follow them.</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">Can anyone afford a lawyer in this broken economy?</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">Musketeer is not a puppeteer.</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">Who loves to politicize everything? -> Musketeer.</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">Mr. Musk made claims of starting a new party. Never did. Switches sides every now and then. What on Earth, Sir? </div>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
