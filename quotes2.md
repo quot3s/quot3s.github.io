@@ -170,12 +170,17 @@ title: Wisdom & Wit
     <div class="quote-text">I miss those no TV days in the states.</div>
   </div>
 
+
   <div class="quote-card">
     <div class="quote-text">I already sacrificed my tooth to the devil. Now, I officially belong in the elite class.</div>
   </div>
 
   <div class="quote-card">
     <div class="quote-text">Glamorize tech and you unknowningly bring the vices of that world - cancel culture, roasting, public shaming, etc. 9-5 doesn't sound that bad now?</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">Never Re-certify Expired Certs.</div>
   </div>
 
   <div class="footer">
