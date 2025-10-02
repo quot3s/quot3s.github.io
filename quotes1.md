@@ -250,8 +250,5 @@ title: Wisdom & Wit
     <p>© 2025 - Curated with care</p>
   </div>
 
-  <div class="disclaimer">
-    <p>The tech industry did me dirty. So, here are the dirty thirty quotes.</p>
-  </div>
 </div>
 

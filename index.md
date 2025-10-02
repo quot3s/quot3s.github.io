@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The First 30 or So
+title: Wisdom & Wit
 ---
 
 <style>
@@ -90,13 +90,19 @@ title: The First 30 or So
 
 <div class="container">
   <div class="header">
-    <h1>The First 30 or So</h1>
     <p>A collection of thoughts, reflections, and musings</p>
   </div>
 
   <div class="disclaimer">
-    <a href="quotes.md" class="quotes-link">View All Quotes →</a>
+    <h1>Quotes 1</h1>
+    <a href="./quotes1" class="quotes-link">View All Quotes →</a>
   </div>
+
+  <div class="disclaimer">
+    <h1>Quotes 2</h1>
+    <a href="./quotes2" class="quotes-link">View All Quotes →</a>
+  </div>
+
 
   <div class="footer">
     <p>© 2025 - Curated with care</p>
