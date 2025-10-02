@@ -186,6 +186,9 @@ title: Wisdom & Wit
 
   <div class="quote-card">
     <div class="quote-text">Re-certify expired certs only for green card purposes.</div>
+  
+   <div class="quote-card">
+    <div class="quote-text">Don't share insta with your coworkers. Add them on Facebook/LinkedIn or share work email/phone. Establish clear boundaries.</div>
   </div>
 
   <div class="footer">
