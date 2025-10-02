@@ -158,6 +158,10 @@ title: Wisdom & Wit
     <div class="quote-text">Sickurity people are so funny. I mean phony.</div>
   </div>
 
+  <div class="quote-card">
+    <div class="quote-text">Suit Up. You are a consultant. Act like one.</div>
+  </div>
+
 
   <div class="footer">
     <p>© 2025 - Curated with care</p>
