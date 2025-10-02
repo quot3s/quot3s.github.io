@@ -208,6 +208,18 @@ title: Wisdom & Wit
     <div class="quote-text">Netflix cancellations are instant. No need to confirm.</div>
   </div>
 
+  <div class="quote-card">
+    <div class="quote-text">Only a degenerate would switch from LinkedIn to Discord.</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">They all would rather prefer free entertainment than put you on a payroll.</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">Being self-employed is a myth. You just end up working for them indirectly.</div>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
