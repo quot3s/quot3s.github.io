@@ -186,9 +186,14 @@ title: Wisdom & Wit
 
   <div class="quote-card">
     <div class="quote-text">Re-certify expired certs only for green card purposes.</div>
+  </div>
   
    <div class="quote-card">
-    <div class="quote-text">Don't share insta with your coworkers. Add them on Facebook/LinkedIn or share work email/phone. Establish clear boundaries.</div>
+    <div class="quote-text">Add coworkers on Fb/linkedin (if they let you add. lol.).Add your gf's friends and family on insta.</div>
+  </div>
+
+   <div class="quote-card">
+    <div class="quote-text">Work Family belongs in the workplace.</div>
   </div>
 
   <div class="footer">
