@@ -101,7 +101,7 @@ title: Wisdom & Wit
     opacity: 0.8;
   }
 
-  .back-link {
+    .nav-link {
   font-size: 1.3em;
   font-weight: 600;
   display: inline-block;
@@ -110,7 +110,7 @@ title: Wisdom & Wit
   color: white;
 }
 
-.back-link:hover {
+.nav-link:hover {
   text-decoration: underline;
   color: #0056b3;
 }
@@ -134,7 +134,13 @@ title: Wisdom & Wit
   }
 </style>
 
-<a href="https://quot3s.github.io/" class="back-link">← Back to Home</a>
+<a href="https://quot3s.github.io/" class="nav-link">← Back to Home</a>
+
+<br />
+
+<a href="https://quot3s.github.io/quotes1" class="nav-link">Prev</a>
+  |  
+<a href="https://quot3s.github.io/#" class="nav-link">Next</a>
 
 <div class="container">
   <div class="header">
@@ -169,7 +175,6 @@ title: Wisdom & Wit
   <div class="quote-card">
     <div class="quote-text">I miss those no TV days in the states.</div>
   </div>
-
 
   <div class="quote-card">
     <div class="quote-text">I already sacrificed my tooth to the devil. Now, I officially belong in the elite class.</div>
