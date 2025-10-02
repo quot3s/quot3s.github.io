@@ -213,16 +213,25 @@ title: Wisdom & Wit
   </div>
 
   <div class="quote-card">
-    <div class="quote-text">Woke HR is the worst.</div>
-  </div>
-
-  <div class="quote-card">
     <div class="quote-text">Freelancing and Bug Bounty platforms also spew and lean into some sort of ideology lately.</div>
   </div>
 
   <div class="quote-card">
-    <div class="quote-text">Draining my energy and focus in all these nonsensical quotes is something I would rather continue to not do.</div>
+    <div class="quote-text">Woke HR is the worst.</div>
   </div>
+
+  <div class="quote-card">
+    <div class="quote-text">Rust proselytizers are even more worst.</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">Simulation needs to be upgraded.</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">I enjoy playing video games.</div>
+  </div>
+
 
   <div class="footer">
     <p>© 2025 - Curated with care</p>
