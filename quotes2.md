@@ -163,18 +163,20 @@ title: Wisdom & Wit
   </div>
 
   <div class="quote-card">
-    <div class="quote-text">Netflix movies were always lame and pushed propraganda. Now it's more on the face. What took Musketeer so long to figure that out? The timing of the distraction.</div>
+    <div class="quote-text">Netflix movies were always lame and pushed propraganda. Now it's more on the face. What took Mr. Musk so long to figure that out? The timing of the distraction.</div>
   </div>
 
   <div class="quote-card">
     <div class="quote-text">I miss those no TV days in the states.</div>
   </div>
 
-
   <div class="quote-card">
     <div class="quote-text">I already sacrificed my tooth to the devil. Now, I officially belong in the elite class.</div>
   </div>
 
+  <div class="quote-card">
+    <div class="quote-text">Glamorize tech and you unknowningly bring the vices of that world - cancel culture, roasting, public shaming, etc. 9-5 doesn't sound that bad now?</div>
+  </div>
 
   <div class="footer">
     <p>© 2025 - Curated with care</p>
