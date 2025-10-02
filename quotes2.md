@@ -204,6 +204,10 @@ title: Wisdom & Wit
     <div class="quote-text">Get a degree and sell it on Ebay.</div>
   </div>
 
+  <div class="quote-card">
+    <div class="quote-text">Netflix cancellations are instant. No need to confirm.</div>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
