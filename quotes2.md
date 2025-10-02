@@ -154,6 +154,10 @@ title: Wisdom & Wit
     <div class="quote-text">Tech Industry is so soft they get offended over anything. Fire soft people.</div>
   </div>
 
+  <div class="quote-card">
+    <div class="quote-text">Sickurity people are so funny. I mean phony.</div>
+  </div>
+
 
   <div class="footer">
     <p>© 2025 - Curated with care</p>
