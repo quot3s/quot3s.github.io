@@ -189,11 +189,19 @@ title: Wisdom & Wit
   </div>
   
    <div class="quote-card">
-    <div class="quote-text">Add coworkers on Fb/linkedin (if they let you add. lol.).Add your gf's friends and family on insta.</div>
+    <div class="quote-text">Add coworkers on Fb/linkedin. (If they let you add. Lol.) Add your gf's friends and family on insta.</div>
   </div>
 
-   <div class="quote-card">
+  <div class="quote-card">
     <div class="quote-text">Work Family belongs in the workplace.</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">Don't let SF bougie tech culture ruin your workplace environment.</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">Get a degree and sell it on Ebay.</div>
   </div>
 
   <div class="footer">
