@@ -140,7 +140,7 @@ title: Wisdom & Wit
 
 <a href="https://quot3s.github.io/quotes1" class="nav-link">Prev</a>
 <span style="color: white; margin: 0 10px;">|</span>
-<a href="https://quot3s.github.io/#" class="nav-link">Next</a>
+<a href="#" class="nav-link">Next</a>
 
 <div class="container">
   <div class="header">
@@ -185,7 +185,7 @@ title: Wisdom & Wit
   </div>
 
   <div class="quote-card">
-    <div class="quote-text">Never Re-certify Expired Certs.</div>
+    <div class="quote-text">Re-certify expired certs only for green card purposes.</div>
   </div>
 
   <div class="footer">
