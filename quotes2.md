@@ -159,7 +159,15 @@ title: Wisdom & Wit
   </div>
 
   <div class="quote-card">
-    <div class="quote-text">Suit Up. You are a consultant. Act like one.</div>
+    <div class="quote-text">Suit Up. You Are A Consultant. Act Like One.</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">Netflix movies were always lame and pushed propraganda. Now it's more on the face. What took Musketeer so long to figure that out? The timing of the distraction.</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">I miss those no TV days in the states.</div>
   </div>
 
 
