@@ -101,6 +101,20 @@ title: Wisdom & Wit
     opacity: 0.8;
   }
 
+  .back-link {
+  font-size: 1.3em;
+  font-weight: 600;
+  display: inline-block;
+  margin-bottom: 1rem;
+  text-decoration: none;
+  color: white;
+}
+
+.back-link:hover {
+  text-decoration: underline;
+  color: #0056b3;
+}
+
   .disclaimer {
     text-align: center;
   }
@@ -120,6 +134,8 @@ title: Wisdom & Wit
   }
 </style>
 
+<a href="https://quot3s.github.io/" class="back-link">← Back to Home</a>
+
 <div class="container">
   <div class="header">
     <h1>Wisdom & Wit</h1>
@@ -127,18 +143,15 @@ title: Wisdom & Wit
   </div>
 
   <div class="quote-card">
-    <div class="quote-text">Musketeer is the love of my heart.</div>
-    <!-- <div class="quote-author">Me</div> -->
+    <div class="quote-text">Musketeer is the love of my life.</div>
   </div>
   
   <div class="quote-card">
     <div class="quote-text">I will work on no other plantation field that my master Musketeer doesn't own.</div>
-    <!-- <div class="quote-author">Me</div> -->
   </div>
 
   <div class="quote-card">
     <div class="quote-text">Tech Industry is so soft they get offended over anything. Fire soft people.</div>
-    <!-- <div class="quote-author">Me</div> -->
   </div>
 
 

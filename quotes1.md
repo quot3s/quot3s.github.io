@@ -87,6 +87,20 @@ title: Wisdom & Wit
     text-decoration: none;
     transition: color 0.3s ease;
   }
+
+  .back-link {
+  font-size: 1.3em;
+  font-weight: 600;
+  display: inline-block;
+  margin-bottom: 1rem;
+  text-decoration: none;
+  color: white;
+}
+
+.back-link:hover {
+  text-decoration: underline;
+  color: #0056b3;
+}
   
   .quote-author a:hover {
     color: #667eea;
@@ -119,6 +133,8 @@ title: Wisdom & Wit
     }
   }
 </style>
+
+<a href="https://quot3s.github.io/" class="back-link">← Back to Home</a>
 
 <div class="container">
   <div class="header">
@@ -195,7 +211,7 @@ title: Wisdom & Wit
   </div>
 
   <div class="quote-card">
-    <div class="quote-text">Inter-related quote - I can do all of the above alone just so you know without any disord or community help, kind of like independent researcher/individual contributor. Just with pure goolging and AI now.</div>
+    <div class="quote-text">I can do all of the above alone just so you know without any disord or community help, kind of like Independent researcher/Individual contributor. Just with pure goolging and AI now.</div>
   </div>
 
   <div class="quote-card">
