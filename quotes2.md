@@ -147,7 +147,7 @@ title: Wisdom & Wit
   </div>
   
   <div class="quote-card">
-    <div class="quote-text">I will work on no other plantation field that my master Musketeer doesn't own.</div>
+    <div class="quote-text">I will work on no other plantation field that my master Musketeer does not own.</div>
   </div>
 
   <div class="quote-card">
@@ -157,6 +157,10 @@ title: Wisdom & Wit
 
   <div class="footer">
     <p>© 2025 - Curated with care</p>
+  </div>
+
+  <div class="disclaimer">
+    <p>Dirty Thirty Series (DTS). Not for the faint-hearted</p>
   </div>
 </div>
 
