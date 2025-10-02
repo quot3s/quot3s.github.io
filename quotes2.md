@@ -171,6 +171,11 @@ title: Wisdom & Wit
   </div>
 
 
+  <div class="quote-card">
+    <div class="quote-text">I already sacrificed my tooth to the devil. Now, I officially belong in the elite class.</div>
+  </div>
+
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
