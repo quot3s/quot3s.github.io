@@ -213,11 +213,15 @@ title: Wisdom & Wit
   </div>
 
   <div class="quote-card">
-    <div class="quote-text">They all would rather prefer free entertainment than put you on a payroll.</div>
+    <div class="quote-text">Woke HR is the worst.</div>
   </div>
 
   <div class="quote-card">
-    <div class="quote-text">Being self-employed is a myth. You just end up working for them indirectly.</div>
+    <div class="quote-text">Freelancing and Bug Bounty platforms also spew and lean into some sort of ideology lately.</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">Draining my energy and focus in all these nonsensical quotes is something I would rather continue to not do.</div>
   </div>
 
   <div class="footer">
