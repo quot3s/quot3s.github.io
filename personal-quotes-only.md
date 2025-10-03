@@ -215,6 +215,10 @@ title: Wisdom & Wit
     <div class="quote-text">Leave everything and learn malware.</div>
   </div>
 
+  <div class="quote-card">
+    <div class="quote-text">Learning Malware Is A Must. Otherwise, You Are Just A Bum.</div>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
