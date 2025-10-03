@@ -168,5 +168,17 @@ title: Wisdom & Wit
     <div class="quote-text">Does your online persona reflect your real world life?</div>
   </div>
 
+<div class="quote-card">
+    <div class="quote-text">Are you a polly person, meaning your entire identity revolves around politics and you bring that ghetto personality to work as well to make your coworkers lives miserable.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Political discrimination is illegal last time I checked.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Keep your political beliefs/views/opinions at home. Don't bring it to the office. And don't forget to vote on election day.</div>
+  </div>
+
 </div>
 </div>
