@@ -210,9 +210,5 @@ title: Wisdom & Wit
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
-
-  <div class="disclaimer">
-    <p>Dirty Thirty Series (DTS). Not for the faint-hearted</p>
-  </div>
 </div>
 
