@@ -103,6 +103,11 @@ title: Wisdom & Wit
     <a href="./quotes2" class="quotes-link">View All Quotes →</a>
   </div>
 
+  <div class="disclaimer">
+    <h1>Quotes 3</h1>
+    <a href="./quotes3" class="quotes-link">View All Quotes →</a>
+  </div>
+
 
   <div class="footer">
     <p>© 2025 - Curated with care</p>
