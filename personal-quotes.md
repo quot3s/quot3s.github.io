@@ -191,7 +191,9 @@ title: Wisdom & Wit
     <div class="quote-text">Go whereever you get a job but eventually settle in a country where google doesn't exist.</div>
   </div>
 
-
+<div class="quote-card">
+    <div class="quote-text">Law Of Impermanence says, nothing last forever, even the biggest psyop that ever existed will come crumbling down to ashes.</div>
+  </div>
 
   <div class="footer">
     <p>© 2025 - Curated with care</p>
