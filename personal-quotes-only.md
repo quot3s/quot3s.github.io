@@ -220,9 +220,12 @@ title: Wisdom & Wit
   </div>
 
   <div class="quote-card">
-    <div class="quote-text">Share malicious malware on telegram to your friends and family so that they are cyber aware and vigilant.</div>
+    <div class="quote-text">Share malicious malware on telegram with your friends and family so that they are cyber aware and vigilant.</div>
   </div>
 
+  <div class="quote-card">
+    <div class="quote-text">Use cat pictures as a cop-out.</div>
+  </div>
 
   <div class="footer">
     <p>© 2025 - Curated with care</p>
