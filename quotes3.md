@@ -188,5 +188,9 @@ title: Wisdom & Wit
     <div class="quote-text">You can't win against professional gaslighters. I have given up on that.</div>
   </div>
 
+  <div class="quote-card">
+    <div class="quote-text">I came across this one meme on Xitter. Public figures live private lives and citizens lives are put under surveillance. It should have been the exact opposite if common sense were to prevail.</div>
+  </div>
+
 </div>
 </div>
