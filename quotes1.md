@@ -214,7 +214,7 @@ title: Wisdom & Wit
   </div>
 
   <div class="quote-card">
-    <div class="quote-text">Looks like all the western world is shut down due to perceived economic and immigration control measures. I might have to wait till 2026.</div>
+    <div class="quote-text">Looks like all the western world is shut down due to perceived economic and immigration control measures.</div>
   </div>
 
   <div class="quote-card">

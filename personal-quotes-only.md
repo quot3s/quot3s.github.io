@@ -227,6 +227,10 @@ title: Wisdom & Wit
     <div class="quote-text">Use cat pictures as a cop-out.</div>
   </div>
 
+  <div class="quote-card">
+    <div class="quote-text">Hide in someone's basement and write malware legally.</div>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
