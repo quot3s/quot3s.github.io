@@ -157,9 +157,8 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Wondering if I should continue to focus my energy in online wars...</div>
+    <div class="quote-text">Wondering if people focus their energy moslty in online wars..</div>
   </div>
-
 
 </div>
 </div>
