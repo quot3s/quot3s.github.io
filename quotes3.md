@@ -156,5 +156,10 @@ title: Wisdom & Wit
     <div class="quote-text">Do you pledge allegiance to cloud providers or are you guilty of cheating at times? Like switching from AWS to Azure.</div>
   </div>
 
+<div class="quote-card">
+    <div class="quote-text">Wondering if I should continue to focus my energy in online wars...</div>
+  </div>
+
+
 </div>
 </div>

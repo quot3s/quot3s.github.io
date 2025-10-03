@@ -160,7 +160,7 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Whites stole yoga and meditation. Cultural appropriation. Gotta file a lawsuit. You do yoga only in the East.</div>
+    <div class="quote-text">Whites stole yoga and meditation. Culture appropriation. Gotta file a lawsuit. You do yoga only in the East.</div>
   </div>
 
 <div class="quote-card">
