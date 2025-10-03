@@ -192,7 +192,7 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Law Of Impermanence says, nothing last forever, even the biggest psyop that ever existed will come crumbling down to ashes.</div>
+    <div class="quote-text">Law of Impermanence says, nothing last forever, even the biggest psyop that ever existed will come crumbling down to ashes.</div>
   </div>
 
 

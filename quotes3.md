@@ -160,5 +160,9 @@ title: Wisdom & Wit
     <div class="quote-text">Wondering if people focus their energy moslty in online wars..</div>
   </div>
 
+<div class="quote-card">
+    <div class="quote-text">Does your online persona reflect your real world life?</div>
+  </div>
+
 </div>
 </div>
