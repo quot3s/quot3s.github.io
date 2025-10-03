@@ -179,6 +179,15 @@ title: Wisdom & Wit
     <div class="quote-text">If you don't work for them, then they call you all names. Hypocrisy is unreal.</div>
   </div>
 
+<div class="quote-card">
+    <div class="quote-text">Why would you work with some psycho who works round the clock sabotaging all your moves?</div>
+  </div>
+
+
+<div class="quote-card">
+    <div class="quote-text">QA is the safest career to ever exist.</div>
+  </div>
+
 
   <div class="footer">
     <p>© 2025 - Curated with care</p>
