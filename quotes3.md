@@ -157,6 +157,10 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
+    <div class="quote-text">Deactivate and probably change your email account if you get a lot of spams.</div>
+  </div>
+
+<div class="quote-card">
     <div class="quote-text">Wondering if people focus their energy moslty in online wars..</div>
   </div>
 

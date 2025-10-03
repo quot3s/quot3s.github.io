@@ -156,15 +156,7 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">When does a stupid Cease And Desist Expire aka Restraining Order?</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Whites stole yoga and meditation. Culture appropriation. Gotta file a lawsuit. You do yoga only in the East.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Deactivate and probably change your email account if you get a lot of spams.</div>
+    <div class="quote-text">West stole yoga and meditation. I sense culture appropriation.</div>
   </div>
 
 <div class="quote-card">
@@ -180,7 +172,7 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Why would you work with some psycho who works round the clock sabotaging all your moves?</div>
+    <div class="quote-text">Why would you work with some deranged lunatic who works round the clock sabotaging all your moves?</div>
   </div>
 
 <div class="quote-card">
