@@ -175,6 +175,9 @@ title: Wisdom & Wit
     <div class="quote-text">When the world wants to persecute you, but you just chillin'.</div>
   </div>
 
+<div class="quote-card">
+    <div class="quote-text">If you don't work for them, then they call you all names. Hypocrisy is unreal.</div>
+  </div>
 
   <div class="footer">
     <p>© 2025 - Curated with care</p>
