@@ -184,5 +184,9 @@ title: Wisdom & Wit
     <div class="quote-text">Stop Religious Persecution Worldwide.</div>
   </div>
 
+  <div class="quote-card">
+    <div class="quote-text">You can't win against professional gaslighters. I have given up on that.</div>
+  </div>
+
 </div>
 </div>
