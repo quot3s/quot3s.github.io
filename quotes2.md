@@ -232,6 +232,42 @@ title: Wisdom & Wit
     <div class="quote-text">I enjoy playing video games.</div>
   </div>
 
+  <div class="quote-card">
+    <div class="quote-text">Stay away from witches and _____. Fill in the blank.</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">God will pay your bills.</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">Somehow employed people are mad at unemployed people.</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">Corporations and government do not want you to work (light-hearted humor intended).</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">No matter how much you assimilate, your skin color never will. Never forget your roots.</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">The law of the land is, they can take it all away from you anytime they wish.</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">My world does not revolve around tesla, grok and politics.</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">Economy is bad but I see my friends and their friends are working just fine.</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">All I asked was to make french beignets to lift the curse.</div>
+  </div>
+
 
   <div class="footer">
     <p>© 2025 - Curated with care</p>
