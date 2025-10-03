@@ -197,7 +197,7 @@ title: Wisdom & Wit
   </div>
 
   <div class="quote-card">
-    <div class="quote-text">Don't let SF bougie tech culture ruin your workplace environment.</div>
+    <div class="quote-text">Don't let SF bougie tech culture become the status quo.</div>
   </div>
 
   <div class="quote-card">

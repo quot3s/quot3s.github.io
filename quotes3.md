@@ -169,15 +169,19 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Are you a polly person, meaning your entire identity revolves around politics and you bring that ghetto personality to work as well to make your coworkers lives miserable.</div>
+    <div class="quote-text">Are you a polly person? Meaning your entire identity revolves around politics and you bring that ghetto personality to work as well to make your coworkers lives miserable.</div>
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Political discrimination is illegal last time I checked.</div>
+    <div class="quote-text">Political/Religious discrimination is illegal last time I checked.</div>
   </div>
 
 <div class="quote-card">
     <div class="quote-text">Keep your political beliefs/views/opinions at home. Don't bring it to the office. And don't forget to vote on election day.</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">Stop Religious Persecution Worldwide.</div>
   </div>
 
 </div>
