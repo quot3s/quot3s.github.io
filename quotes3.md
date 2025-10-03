@@ -142,14 +142,19 @@ title: Wisdom & Wit
 <span style="color: white; margin: 0 10px;">|</span>
 <a href="#" class="nav-link">Next</a>
 
-<div class="quote-card">
-    <div class="quote-text">Chat with Elon Musk at elon.musk@x.com. Applicable to any person of interest.</div>
-  </div>
-
 
 <div class="container">
   <div class="header">
     <h1>Wisdom & Wit</h1>
     <p>A collection of thoughts, reflections, and musings</p>
+
+<div class="quote-card">
+    <div class="quote-text">Chat with Elon Musk at elon.musk@x.com. Applicable to any person of interest.</div>
   </div>
+
+<div class="quote-card">
+    <div class="quote-text">Do you pledge allegiance to cloud providers or are you guilty of cheating at times? Like switching from AWS to Azure.</div>
+  </div>
+
+</div>
 </div>
