@@ -156,8 +156,25 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Living in the Information Overload Era (IOE).</div>
+    <div class="quote-text">Where do you usually file landlord harassment complaints?</div>
   </div>
+
+<div class="quote-card">
+    <div class="quote-text">When does a stupid Cease And Desist Expire aka Restraining Order?</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Deactivate and probably change your email account if you get a lot of spams.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Red Wine gives me headaches. I admire Jesus now more than ever.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">When the world wants to persecute you, but you just chillin'.</div>
+  </div>
+
 
   <div class="footer">
     <p>© 2025 - Curated with care</p>
