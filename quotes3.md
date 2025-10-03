@@ -193,7 +193,7 @@ title: Wisdom & Wit
   </div>
 
   <div class="quote-card">
-    <div class="quote-text">I need a lot of varied stimulation to function as a human; therefore, I have diverse interests. A lot of us end up becoming a hobbyist in America.</div>
+    <div class="quote-text">I need a lot of varied stimulation to function as a human; therefore, I have diverse interests. A lot of us end up becoming a hobbyist (not to be confused with a lobbyist) in America.</div>
   </div>
 </div>
 </div>
