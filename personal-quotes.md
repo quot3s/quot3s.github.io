@@ -137,14 +137,55 @@ title: Wisdom & Wit
 <a href="https://quot3s.github.io/" class="nav-link">← Back to Home</a>
 
 <br />
-
-<a href="https://quot3s.github.io/quotes2" class="nav-link">Prev</a>
-<span style="color: white; margin: 0 10px;">|</span>
-<a href="#" class="nav-link">Next</a>
-
 <div class="container">
   <div class="header">
     <h1>Wisdom & Wit</h1>
     <p>A collection of thoughts, reflections, and musings</p>
   </div>
+
+<div class="quote-card">
+    <div class="quote-text">I want to learn Malware so badly. Somebody teach me.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Try throwing your phone in the sewer at least once.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Where do you usually file landlord harassment complaints?</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">When does a stupid Cease And Desist Expire aka Restraining Order?</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Whites stole yoga and meditation. Cultural appropriation. Gotta file a lawsuit. You do yoga only in the East.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Deactivate and probably change your email account if you get a lot of spams.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Red Wine gives me headaches. I admire Jesus now more than ever.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">When the world wants to persecute you, but you just chillin'.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">If you don't work for them, then they call you all names. Hypocrisy is unreal.</div>
+  </div>
+
+
+  <div class="footer">
+    <p>© 2025 - Curated with care</p>
+  </div>
+
+  <div class="disclaimer">
+    <p>Dirty Thirty Series (DTS). Not for the faint-hearted</p>
+  </div>
 </div>
+
