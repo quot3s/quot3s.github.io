@@ -183,10 +183,14 @@ title: Wisdom & Wit
     <div class="quote-text">Why would you work with some psycho who works round the clock sabotaging all your moves?</div>
   </div>
 
-
 <div class="quote-card">
     <div class="quote-text">QA is the safest career to ever exist.</div>
   </div>
+
+<div class="quote-card">
+    <div class="quote-text">Go whereever you get a job but eventually settle in a country where google doesn't exist.</div>
+  </div>
+
 
 
   <div class="footer">
