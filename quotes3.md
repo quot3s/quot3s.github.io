@@ -137,7 +137,6 @@ title: Wisdom & Wit
 <a href="https://quot3s.github.io/" class="nav-link">← Back to Home</a>
 
 <br />
-
 <a href="https://quot3s.github.io/quotes2" class="nav-link">Prev</a>
 <span style="color: white; margin: 0 10px;">|</span>
 <a href="#" class="nav-link">Next</a>
@@ -146,6 +145,18 @@ title: Wisdom & Wit
   <div class="header">
     <h1>Wisdom & Wit</h1>
     <p>A collection of thoughts, reflections, and musings</p>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">I want to learn Malware so badly. Somebody teach me.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Try throwing your phone in the sewer at least once.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Living in the Information Overload Era (IOE).</div>
   </div>
 
   <div class="footer">
