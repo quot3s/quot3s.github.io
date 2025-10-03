@@ -188,5 +188,12 @@ title: Wisdom & Wit
     <div class="quote-text">You can't win against professional gaslighters. I have given up on that.</div>
   </div>
 
+  <div class="quote-card">
+    <div class="quote-text">Woke dance lessons killed the dancing scene, and scared the new guys who are just stepping into it. Socials are better.</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">I need a lot of varied stimulation to function as a human; therefore, I have diverse interests. A lot of us end up becoming a hobbyist in America.</div>
+  </div>
 </div>
 </div>

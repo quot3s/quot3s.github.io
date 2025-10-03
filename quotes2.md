@@ -193,7 +193,7 @@ title: Wisdom & Wit
   </div>
 
   <div class="quote-card">
-    <div class="quote-text">Work Family belongs in the workplace. Take your coworker to dancing at times for a change.</div>
+    <div class="quote-text">Work Family belongs in the workplace. Take your coworker to social dancing at times for a change.</div>
   </div>
 
   <div class="quote-card">
