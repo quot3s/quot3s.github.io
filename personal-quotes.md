@@ -187,6 +187,18 @@ title: Wisdom & Wit
     <div class="quote-text">Law of Impermanence says, nothing last forever, even the biggest psyop that ever existed will come crumbling down to ashes.</div>
   </div>
 
+<div class="quote-card">
+    <div class="quote-text">Like Oprah once said, everyone is a criminal in the eyes of the Lord. For you too have sinned, My Son.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Sell vibe-coded malware on dark web (light-hearted humor).</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Hire someone who prefers living in a humorless society.</div>
+  </div>
+
 
   <div class="footer">
     <p>© 2025 - Curated with care</p>
