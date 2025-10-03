@@ -211,6 +211,10 @@ title: Wisdom & Wit
     <div class="quote-text">Only a comedian can reveal the truth in an unwitting way.</div>
   </div>
 
+  <div class="quote-card">
+    <div class="quote-text">Leave everything and learn malware.</div>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
