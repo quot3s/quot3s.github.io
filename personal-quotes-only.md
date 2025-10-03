@@ -231,6 +231,10 @@ title: Wisdom & Wit
     <div class="quote-text">Hide in someone's basement and write malware legally.</div>
   </div>
 
+  <!-- <div class="quote-card">
+    <div class="quote-text">The irony is that discrimination rules are created to discriminate.</div>
+  </div> -->
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
