@@ -214,15 +214,15 @@ title: Wisdom & Wit
   </div>
 
   <div class="quote-card">
+    <div class="quote-text">Looks like all the western world is shut down due to perceived economic and immigration control measures. I might have to wait till 2026.</div>
+  </div>
+
+  <div class="quote-card">
     <div class="quote-text">Bug Bounty, Freelancing, getting back to 9-5 or all of them. What would you do if given a choice?</div>
   </div>
 
   <div class="quote-card">
-    <div class="quote-text">I can do all of the above alone just so you know without any disord or community help, kind of like Independent researcher/Individual contributor. Just with pure goolging and AI now.</div>
-  </div>
-
-  <div class="quote-card">
-    <div class="quote-text">Looks like all the western world is shut down. I'll wait till 2026.</div>
+    <div class="quote-text">I can do all of the above alone just so you know without any disord or community help, kind of like <b>Independent Researcher/Individual Contributor</b>. Just with pure goolging and AI now.</div>
   </div>
 
   <div class="quote-card">

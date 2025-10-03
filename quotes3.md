@@ -195,5 +195,9 @@ title: Wisdom & Wit
   <div class="quote-card">
     <div class="quote-text">I need a lot of varied stimulation to function as a human; therefore, I have diverse interests. A lot of us end up becoming a hobbyist (not to be confused with a lobbyist) in America.</div>
   </div>
+
+  <div class="disclaimer">
+    <p>Dirty Thirty Series (DTS). Not for the faint-hearted</p>
+  </div>
 </div>
 </div>

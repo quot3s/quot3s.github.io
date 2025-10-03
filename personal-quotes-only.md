@@ -144,7 +144,7 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">I want to learn Malware so badly. Somebody teach me.</div>
+    <div class="quote-text">I want to learn Malware so badly. Somebody teach me plzzz....</div>
   </div>
 
 <div class="quote-card">
