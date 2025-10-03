@@ -199,6 +199,13 @@ title: Wisdom & Wit
     <div class="quote-text">Hire someone who prefers living in a humorless society.</div>
   </div>
 
+  <div class="quote-card">
+    <div class="quote-text">I came across this one meme on Xitter. Public figures live private lives and citizens lives are put under surveillance. It should have been the exact opposite if common sense were to prevail.</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">Watch the watchers if you will.</div>
+  </div>
 
   <div class="footer">
     <p>© 2025 - Curated with care</p>
