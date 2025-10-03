@@ -102,11 +102,11 @@ title: Wisdom & Wit
     <h1>Quotes 2</h1>
     <a href="./quotes2" class="quotes-link">View All Quotes →</a>
   </div>
-
+<!-- 
   <div class="disclaimer">
     <h1>Quotes 3</h1>
     <a href="./quotes3" class="quotes-link">View All Quotes →</a>
-  </div>
+  </div> -->
 
 
   <div class="footer">
