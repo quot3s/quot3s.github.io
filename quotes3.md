@@ -213,7 +213,8 @@ title: Wisdom & Wit
   </div>
 
   <div class="quote-card">
-    <div class="quote-text">That feeling when you lose respect instantly for the entire industry. Techno world is surreal.</div>
+    <div class="quote-text">That feeling when you lose respect for the entire industry. Respect earned and respect lost, all happens in an instant. Techno world is Surreal.
+</div>
   </div>
 
   <div class="quote-card">
@@ -222,6 +223,10 @@ title: Wisdom & Wit
 
   <div class="quote-card">
     <div class="quote-text">With Gods' grace, I use hotspot as a backup in case of electricity outage, still a frequent occurrence in the developing world.</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">Just give me a call, don't you wanna hear my voice and look me in the eye. Don't you know it's finally time for us to connect.</div>
   </div>
 
   <div class="disclaimer">
