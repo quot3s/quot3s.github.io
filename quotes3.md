@@ -205,11 +205,11 @@ title: Wisdom & Wit
   </div>
 
   <div class="quote-card">
-    <div class="quote-text">Why is Elon Musk not speaking up on religious persecution prevalent in many countries?</div>
+    <div class="quote-text">Why is Elon Musk silent on religious persecution prevalent in many countries?</div>
   </div>
 
   <div class="quote-card">
-    <div class="quote-text">Only a googler would quit his job just because of enough likes. Bougie New Yorker. Meet https://x.com/KevinNaughtonJr</div>
+    <div class="quote-text">Only a googler would quit his job just because of enough likes. Bougie New Yorker. Meet <a href="https://x.com/KevinNaughtonJr">Kevin Naughton Jr.</a></div>
   </div>
 
   <div class="quote-card">
@@ -239,6 +239,10 @@ title: Wisdom & Wit
 
   <div class="quote-card">
     <div class="quote-text">When it's get hot, you gotta go to Goa #beachlife</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">I strive to leave breadcrumbs for you to do your further research.</div>
   </div>
 
   <div class="disclaimer">
