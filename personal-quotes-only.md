@@ -231,10 +231,6 @@ title: Personal Quotes Only (PQO)
     <div class="quote-text">Hide in someone's basement and write malware legally.</div>
   </div>
 
-  <div class="quote-card">
-    <div class="quote-text">I specialize in all things API since the dawn of time. Be it design, testing or security. API is the only thing that I know of. I only have 'API' listed on my resume. Literally, just those 3 letters.</div>
-  </div>
-
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
