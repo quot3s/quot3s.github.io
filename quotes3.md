@@ -242,7 +242,11 @@ title: Wisdom & Wit
   </div>
 
   <div class="quote-card">
-    <div class="quote-text">I strive to leave breadcrumbs for you to do your further research.</div>
+    <div class="quote-text">I strive to leave breadcrumbs for you to do your own research.</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text"><a href="https://globalchristianrelief.org/stories/religious-persecution-countries/">Religious Persecution Facts</a></div>
   </div>
 
   <div class="disclaimer">
