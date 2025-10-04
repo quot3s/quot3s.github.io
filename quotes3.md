@@ -250,7 +250,11 @@ title: Wisdom & Wit
   </div>
 
   <div class="quote-card">
-    <div class="quote-text">When they can't control you, they try to ruin your finances. #FinancialAbuse</div>
+    <div class="quote-text">When they can't control you, they try to ruin your finances #FinancialAbuse</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">Sleep is very important. I recommend at leat 9 hour sleep.</div>
   </div>
 
   <div class="disclaimer">
