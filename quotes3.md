@@ -204,6 +204,10 @@ title: Wisdom & Wit
     <div class="quote-text">Support Women In Tech. Put all the men in kitchen. The world needs more male chef.</div>
   </div>
 
+  <div class="quote-card">
+    <div class="quote-text">Why is Elon Musk not speaking up on religious persecution prevalent in many countries?</div>
+  </div>
+
   <div class="disclaimer">
     <p>Dirty Thirty Series (DTS). Not for the faint-hearted</p>
   </div>
