@@ -231,6 +231,18 @@ title: Personal Quotes Only (PQO)
     <div class="quote-text">Hide in someone's basement and write malware legally.</div>
   </div>
 
+  <div class="quote-card">
+    <div class="quote-text">Most funniest nerd joke. It's not MERN. It's MEAN stack. Should I laugh?</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">I wonder how did that woke superman movie go?</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">Tell everyone when you go outside. The world is dying to know about your whereabouts.</div>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
