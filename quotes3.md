@@ -212,6 +212,15 @@ title: Wisdom & Wit
     <div class="quote-text">Only a googler would quit his job just because of enough likes. Bougie New Yorker. Meet https://x.com/KevinNaughtonJr</div>
   </div>
 
+  <div class="quote-card">
+    <div class="quote-text">That feeling when you lose respect for the entire industry. Techno world is surreal.</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">I have made gazillion `git commits` and `git push force` on all the projects. Those keystrokes would have been better spent in a 9-5 job.</div>
+  </div>
+
+
   <div class="disclaimer">
     <p>Dirty Thirty Series (DTS). Not for the faint-hearted</p>
   </div>
