@@ -208,6 +208,10 @@ title: Wisdom & Wit
     <div class="quote-text">Why is Elon Musk not speaking up on religious persecution prevalent in many countries?</div>
   </div>
 
+  <div class="quote-card">
+    <div class="quote-text">Only a googler would quit his job just because of enough likes. Bougie New Yorker. Meet https://x.com/KevinNaughtonJr</div>
+  </div>
+
   <div class="disclaimer">
     <p>Dirty Thirty Series (DTS). Not for the faint-hearted</p>
   </div>
