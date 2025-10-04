@@ -257,6 +257,10 @@ title: Wisdom & Wit
     <div class="quote-text">Sleep is very important. I recommend at leat 9 hour sleep.</div>
   </div>
 
+  <div class="quote-card">
+    <div class="quote-text">I wish I was the father of Optimus.</div>
+  </div>
+
   <div class="disclaimer">
     <p>Dirty Thirty Series (DTS). Not for the faint-hearted</p>
   </div>
