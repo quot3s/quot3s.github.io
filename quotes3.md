@@ -196,6 +196,14 @@ title: Wisdom & Wit
     <div class="quote-text">I need a lot of varied stimulation to function as a human; therefore, I have diverse interests. A lot of us end up becoming a hobbyist (not to be confused with a lobbyist) in America.</div>
   </div>
 
+  <div class="quote-card">
+    <div class="quote-text">I specialize in all things API since the dawn of time. Be it design, testing or security. API is the only thing that I know of. I only have 'API' listed on my resume. Literally, just those 3 letters.</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">Support Women In Tech. Put all the men in kitchen. The world needs more male chef.</div>
+  </div>
+
   <div class="disclaimer">
     <p>Dirty Thirty Series (DTS). Not for the faint-hearted</p>
   </div>
