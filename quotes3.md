@@ -229,6 +229,18 @@ title: Wisdom & Wit
     <div class="quote-text">Just give me a call, don't you wanna hear my voice and look me in the eye. Don't you know it's finally time for us to connect.</div>
   </div>
 
+  <div class="quote-card">
+    <div class="quote-text">Are you still begging for a job in 2025?</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">Will Grokipedia be the new Wikipedia? What kind of readers would it attract?</div>
+  </div>
+
+  <div class="quote-card">
+    <div class="quote-text">When it's get hot, you gotta go to Goa #beachlife</div>
+  </div>
+
   <div class="disclaimer">
     <p>Dirty Thirty Series (DTS). Not for the faint-hearted</p>
   </div>
