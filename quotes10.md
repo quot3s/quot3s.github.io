@@ -343,7 +343,23 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-   <div class="quote-text"><em>Have you ever worked for a company that plans team outings at exotic places? How is it like sipping that Piña Colada with your coworker at the beach?. Ironically, Corporate always has a lot of money for such extravaganza expenses..</em></div>
+   <div class="quote-text"><em>Have you ever worked for a company that plans team outings at exotic places? What is it like, sipping that Piña Colada with your coworker in a bikini at the beach?. Ironically, Corporate always has a lot of money for such extravaganza expenses..</em></div>
+  </div>
+
+<div class="quote-card">
+   <div class="quote-text"><em>There are no limits to mankind's imagination.</em></div>
+  </div>
+
+<div class="quote-card">
+   <div class="quote-text">Sadly, AI can wipe out your entire 9-5 existence just by a sheer prompt.</div>
+  </div>
+
+<div class="quote-card">
+   <div class="quote-text">I don't want to be in a situationship anymore.. just wanna get married for Christ's sake..</div>
+  </div>
+
+<div class="quote-card">
+   <div class="quote-text"><em>Evil people often showcase themselves as the true saviors or messiahs that the world needs to continue to exist..</em></div>
   </div>
 
   <div class="footer">
