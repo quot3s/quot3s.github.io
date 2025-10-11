@@ -323,7 +323,11 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Online leasing — Big Red Flag (BRF). Paperwork is the way to go. They handle it the old-fashioned way..</div>
+    <div class="quote-text">They know your situation, pity you and laugh at you and also try to make it even more worse.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Online leasing — Big Red Flag (BRF). Paperwork is the way to go. They handle it the old-fashioned way. Most importantly they mind their own business.</div>
 </div>
 
 <div class="quote-card">
@@ -341,6 +345,14 @@ title: Wisdom & Wit
 
 <div class="quote-card">
     <div class="quote-text">For the developed nations, video calling is now also accesible in the developing world.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Back then they would inspect H-1B's on work-sites only. Now they even know where you got your furniture from, or the even list of shopping items you had purchased. Lol. Creepiness is just next-level. <em>Chinese spies & espionage</em> stories we have heard a lot. Indian H-1B's are just building stuff since India is mostly service-industry in the IT sector. The trend that is changing lately.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Mad Men take your anger out at someone else. Everything is not directed towards you.</div>
   </div>
 
 <div class="quote-card">
