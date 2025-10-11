@@ -338,7 +338,7 @@ title: Wisdom & Wit
   </div>
 
   <div class="quote-card">
-   <div class="quote-text">Even a man can be a hardcore feminist or at least pretend to be one. Lol.</div>
+   <div class="quote-text">Even a man can be a hardcore feminist or at least pretend to be one to get some. Lol.</div>
   </div>
 
 <div class="quote-card">
@@ -355,6 +355,10 @@ title: Wisdom & Wit
 
 <div class="quote-card">
    <div class="quote-text">Modern feminism is way too cancerous.</div>
+  </div>
+
+<div class="quote-card">
+   <div class="quote-text">If you want job security in your career, use pronouns in your bio. And don't talk shit about DEI, otherwise they will make sure you career will DIE.</div>
   </div>
 
 <div class="quote-card">
