@@ -342,6 +342,10 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
+    <div class="quote-text">Good old-fashioned lynchings aka public executions on Sundays' will fire up people and bring back the Wild West..</div>
+  </div>
+
+<div class="quote-card">
     <div class="quote-text">Everyday they put you out of work is an insult to all your hard work, the institutions you went to, and the smart people you had worked with since you are an overall product of your surroundings.</div>
   </div>
 
