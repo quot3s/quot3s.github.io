@@ -301,6 +301,10 @@ title: Wisdom & Wit
    <div class="quote-text">Oooh...!! I want to make a living by shitpostig in this AI bubble. That would be a great use of my newly discovered talent !!</div>
   </div>
 
+<div class="quote-card">
+   <div class="quote-text"><em>Interesting Read</em> — <a href="https://encyclopedia.ushmm.org/content/en/article/the-great-depression">The Great Depression</a>. Hit the <em>Must Reads</em> sections and check out all the other articles as well.</div>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
