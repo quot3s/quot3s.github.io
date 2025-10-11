@@ -262,11 +262,35 @@ title: Wisdom & Wit
   </div>
 
   <div class="quote-card">
-    <div class="quote-text">Mr. Musk's Momma Bear comes to save Grokipedia, Alas!!</div>
+    <div class="quote-text">Mr. Musk's Momma Bear comes to rescue Grokipedia, Alas!!</div>
   </div>
 
   <div class="quote-card">
    <div class="quote-text">When you are looking for your sixth job (if namesake internship included), and you get a fresh graduate treatment.</div>
+  </div>
+
+  <div class="quote-card">
+   <div class="quote-text">Peeps don't lie, and peeps don't cry!</div>
+  </div>
+
+  <div class="quote-card">
+   <div class="quote-text">Wikipedia alternative Grokipedia will be no different. The former is more refined and polished in it's approach while the latter would be brutally raw and unfiltered. Those people who would be running 'em would have one thing in common. Guess what?</div>
+  </div>
+
+  <div class="quote-card">
+   <div class="quote-text">Sir, I did not go to any universities or get any certifications. I learnt everything on my own with some community support while I was flipping burgers and working late nights at gas stations for a living. My struggle is a testament to unwavering success and justifies burning down all the elite universities to the ground as they have failed our generations miserably.</div>
+  </div>
+
+  <div class="quote-card">
+   <div class="quote-text">Check out Top Shitposter -> <a href="https://x.com/vxundeground">Mr. Malware Researcher</a> & Top Silent Reposter -> <a href="https://x.com/hashererand">Ms. Malware Researcher</a>.</div>
+  </div>
+
+  <div class="quote-card">
+   <div class="quote-text">When your South Indian coworker is jamming to Tollywood at work? Doesn't feel like working in the States. Lol.</div>
+  </div>
+
+  <div class="quote-card">
+   <div class="quote-text">When your American coworker is watching streamers play video games after 4 until clock out to pass time cuz things slow down a bit later during closing hours. Another Lol Factzzaa</div>
   </div>
 
   <div class="footer">
