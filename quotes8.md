@@ -281,6 +281,17 @@ title: Wisdom & Wit
     <div class="quote-text">Do you also share where you vacationed on LinkedIn?</div>
   </div>
 
+<div class="quote-card">
+    <div class="quote-text">If things didn't work out with a company, leave a bad review on glassdoor and move on. Let bygones be bygones.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Create an anonymous accout when posting google reviews, especially if they are negative.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">I had told you earlier that it was going to be biblical. You didn't listen.</div>
+  </div>
 
   <div class="footer">
     <p>© 2025 - Curated with care</p>
