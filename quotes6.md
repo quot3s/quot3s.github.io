@@ -347,6 +347,10 @@ xc
     <div class="quote-text">Reminder -> Chosen one's can troll anyone they like and get away with it.</div>
   </div>
 
+<div class="quote-card">
+    <div class="quote-text">My updated resume is super-polished and tailored to your bon apetite. Ask for one. Get to know me.</div>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
