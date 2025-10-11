@@ -261,8 +261,12 @@ title: Wisdom & Wit
     <p>A collection of thoughts, reflections, and musings</p>
   </div>
 
-<div class="quote-card">
-    <div class="quote-text">Mr. Musk Momma Bear comes to save Grokipedia, Alas!!</div>
+  <div class="quote-card">
+    <div class="quote-text">Mr. Musk's Momma Bear comes to save Grokipedia, Alas!!</div>
+  </div>
+
+  <div class="quote-card">
+   <div class="quote-text">When you are looking for your sixth job (if namesake internship included), and you get a fresh graduate treatment.</div>
   </div>
 
   <div class="footer">
