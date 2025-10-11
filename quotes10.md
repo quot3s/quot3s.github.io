@@ -359,7 +359,11 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-   <div class="quote-text"><em>Evil people often showcase themselves as the true saviors or messiahs that the world needs to continue to exist..</em></div>
+   <div class="quote-text"><em>Evil people often showcase themselves as the true saviors or messiahs that the world needs to continue to exist.</em></div>
+  </div>
+
+<div class="quote-card">
+   <div class="quote-text">I only shitpost 9-5 UTC Time Mon-Fri with some Saturdays as exceptions.</div>
   </div>
 
   <div class="footer">
