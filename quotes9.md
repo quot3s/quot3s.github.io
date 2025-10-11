@@ -306,15 +306,19 @@ title: Wisdom & Wit
   </div>
 
   <div class="quote-card">
-   <div class="quote-text">Go to Sin City at least once in your lifetime. You deserve that much needed pleasure.</div>
+   <div class="quote-text">Go to Sin City at least once in your lifetime. You deserve that much needed pleasure. Look up <a href="https://nocovernightclubs.com"><em>No Cover NightClubs</em></a> for free entry.</div>
   </div>
 
   <div class="quote-card">
-   <div class="quote-text">If your company is very open-minded, then put all these quotes on a projector during lunch and learn's. Make copies of it. I might take it all down anytime I wish.</div>
+   <div class="quote-text">If your company is very open-minded, then put all these quotes on a projector during lunch and learn's. <em>Make copies of it.. I might take it all down anytime I wish..</em></div>
   </div>
 
   <div class="quote-card">
    <div class="quote-text">I didn't wanted to monetize posting all of my thoughts like others do for a living. That's very nice of me tbh.</div>
+  </div>
+
+  <div class="quote-card">
+   <div class="quote-text">Even introverts have a life outside of work.. they read books and stuff..</div>
   </div>
 
   <div class="footer">
