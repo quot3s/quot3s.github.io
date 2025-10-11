@@ -291,23 +291,31 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Meet Macrohard. Microsoft's arch nemesis.</div>
+    <div class="quote-text">Meet Macrohard. Microsoft's new arch nemesis.</div>
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Will Grok's latest update put the adult industry out of business? Is this the new way of getting that steam out?</div>
+    <div class="quote-text">Will Grok's latest update put the adult industry out of business? Is this the new way of getting that steam out? LMAO.</div>
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">READ THIS. Fuck off malware whores along with your bitches.</div>
+    <div class="quote-text">READ THIS. Fuck off malware whores along with your minions and bitches.</div>
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Your ATS can't pick up a foreign degree from a well-renowned uni. Joke is on you.</div>
+    <div class="quote-text">Your ATS can't pick up a foreign degree from a well-renowned university. Joke is on you, Son.</div>
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Back then they said get a degree to land a 9-5 gig. Now tha'ts not needed.</div>
+    <div class="quote-text">Back then they said get a degree to land a 9-5 gig. Now tha'ts not needed anymore.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Woke HR and management prefer no degrees. Looks like everyone is looking for a prodigy nowadays. Mediocrity is dead.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">I can't help but the South Parker in me is getting out. Never forget South Park came from COLORADO.</div>
   </div>
 
 
