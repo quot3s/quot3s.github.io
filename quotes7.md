@@ -303,7 +303,7 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Mr. Musk could have just hired me in the first place at Tesla/Paypal/X back in the day but rather chose to get distracted by politics and name-calling. We would be having a chilled beer at the Tesla Diner right now. I guess <em>Fate Loves Irony</em></div>
+    <div class="quote-text">Mr. Musk could have just hired me in the first place at Tesla/Paypal/X back in the day but rather chose to get distracted by politics and name-calling. We would be having a chilled beer at the Tesla Diner right now. I guess <em>Fate Loves Irony</em>.</div>
   </div>
 
 <div class="quote-card">
@@ -328,6 +328,14 @@ title: Wisdom & Wit
 
 <div class="quote-card">
     <div class="quote-text"><em>These marvelous quotes are spontaneous. Not pre-planned or scripted at all as you can tell.</em></div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">All of these 69/420 joke are so kiddish.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">For the developed nations, video calling is now also accesible in the developing world.</div>
   </div>
 
   <div class="footer">
