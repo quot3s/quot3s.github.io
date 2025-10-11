@@ -261,6 +261,10 @@ title: Wisdom & Wit
     <p>A collection of thoughts, reflections, and musings</p>
   </div>
 
+<div class="quote-card">
+   <div class="quote-text">Start journaling if you have anger issues...</div>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
