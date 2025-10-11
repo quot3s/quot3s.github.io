@@ -248,9 +248,9 @@ title: Wisdom & Wit
 
 <br />
 
-<a href="https://quot3s.github.io/quotes5" class="nav-link">Prev</a>
+<a href="https://quot3s.github.io/quotes6" class="nav-link">Prev</a>
 <span style="color: #00ff00; margin: 0 10px;">|</span>
-<a href="https://quot3s.github.io/quotes7" class="nav-link">Next</a>
+<a href="#" class="nav-link">Next</a>
 
 <div class="container">
   <div class="header">
@@ -259,128 +259,7 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Anyone who goes clubbing is a pewdiepie (Get The Pun).</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Anyone who goes latin dancing is a pewdiepie (Get The Pun).</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Anyone who goes to church is a pewdiepie (Get The Pun).</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Hey everyone, I am going to classical music concert tonight. LMAO.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">I am so elite. I have high taste in classical music.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">He who shuts the fuck up on a Monday is whom I respect a lot.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">You pick the scums of the Earth.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Only Christ can save you, Son.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Meet Macrohard. Microsoft's new arch nemesis.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Will Grok's latest update put the adult industry out of business? Is this the new way of getting that steam out? LMAO.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">READ THIS. Fuck off malware whores along with your minions and bitches.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Your ATS can't pick up a foreign degree from a well-renowned university. Joke is on you, Son.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Back then they said get a degree to land a 9-5 gig. Now that's not needed anymore.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Woke HR and management prefer no degrees. Looks like everyone is looking for a prodigy nowadays. Mediocrity is dead.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">I can't help but the South Parker in me is getting out. Never forget South Park came from COLORADO.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">When nerds live in their own bubble, they are missing out on the real world.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Hey everyone, I support and care for illegals. You came here legally. Lol. Support both. Each have their own struggles. Take over the entire country, one immigrant at a time.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">I doubt how did you become a Staff Security Director. Did anyone do a medical check on you? Probably not. The inmates are <em>still</em> running the asylum.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">How do you explain a 2-year gap in your resume? "Sir, I went hiking up to the mountains to do some soul-searching and find inner-peace. Now, I have changed for the better." Literally, know a coworker who went for a 1-year trip to Nepal but she is white and they make visits to the East to do hippie things, so she is good.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">What are the qualifications required to work at Macrohard, I wonder. It might end up auto-rejecting an entire race.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Avoid startups that have Clown-like names. You don't need to peek further into their culture. The name itself gives it all away.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Reminder -> Chosen one's can troll anyone they like, including other Chosen one's and get away with it.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">My updated resume is super-polished and tailored to your bon apetite. Ask for one. Get to know me.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">My culture is not your hairstyle - Stolen from a meme on twitter.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Download Grok. Grok Is Good.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Any robot's key features must include ability to dance and fight.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">No Lifeless Robots In My Backyard.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Stop Robot Abuse.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">I Envy European Architecture.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Eat Pancakes.</div>
-  </div>
-
-<!-- Wow. Starlink can be used in the mountains as long as you have an unobstructed view of the sky for the dish to connect with satellites -->
-<div class="quote-card">
-    <div class="quote-text">I need Starlink no matter where I go so that I can stay in touch with Musketeer and his cheerleaders constant rambling.</div>
+    <div class="quote-text">I was always cool, Son. You just learnt that now. Late to the party.</div>
   </div>
 
   <div class="footer">
