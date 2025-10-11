@@ -269,6 +269,9 @@ title: Wisdom & Wit
    <div class="quote-text">Do you post Pep talks on instagram or linkedin?</div>
   </div>
 
+<div class="quote-card">
+   <div class="quote-text">I am really running out of content now.. need to brainstorm harder..</div>
+  </div>
 
   <div class="footer">
     <p>© 2025 - Curated with care</p>
