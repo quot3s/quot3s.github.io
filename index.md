@@ -274,6 +274,11 @@ title: Wisdom & Wit
     <a href="./quotes8" class="quotes-link">View All Quotes</a>
   </div>
 
+  <div class="disclaimer">
+    <h1>Quotes 9</h1>
+    <a href="./quotes9" class="quotes-link">View All Quotes</a>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with sudo privileges</p>
     <p style="font-size: 0.8em; margin-top: 5px;">[ SYSTEM STATUS: ONLINE ]</p>

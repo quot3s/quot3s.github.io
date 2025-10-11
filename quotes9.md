@@ -251,9 +251,9 @@ title: Wisdom & Wit
 
 <br />
 
-<a href="https://quot3s.github.io/quotes7" class="nav-link">Prev</a>
+<a href="https://quot3s.github.io/quotes8" class="nav-link">Prev</a>
 <span style="color: #00ff00; margin: 0 10px;">|</span>
-<a href="htts://quot3s.github.io/quotes9" class="nav-link">Next</a>
+<a href="#" class="nav-link">Next</a>
 
 <div class="container">
   <div class="header">
@@ -262,127 +262,7 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Merritt Family Last Name Origin: In 1940, Laborer and Maid were the top reported jobs for men and women in the USA named Merritt. 17% of Merritt men worked as a Laborer and 7% of Merritt women worked as a Maid. Some less common occupations for Americans named Merritt were Truck Driver and Housekeeper. <strong>Source: ancestry.com</strong></div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Why would a deranged lunatic and his $#%#$^$#$ go on a witchhunt against a nobody?</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Report cyber crimes to <a href="https://x.com/vxunderground/">VXUG</a></div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Recruiters post contract info on linkedin with all the specifics and potential job seekers to DM. Through emails, they just send salary rates and an overall update on economy.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Do you also share your vacation outings on LinkedIn?</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Do you listen to bollywod music when on a road trip to Arizona/Nevada/Colorado aka <em>Land Of The Natives</em>?</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">If things didn't work out with any company, leave a bad review on glassdoor and move on. Let bygones be bygones.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Create an anonymous account when posting google reviews, especially if they are negative.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">I had told you earlier that it was going to be biblical. You didn't listen.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Don't be afraid to grow your online presence even when big tech and gov. is watching. Increase both follower/following count. Do so unapologetically.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Be the role model or at least follow one.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Why does social media shitposters have an insane level of following?</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text"><em>Looks like we live in the shitposting era..</em></div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Pick any security company and you'll notice their entire eng. dept outsourced. Look at malwarebytes or rapid7 for starters..</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text"><em>Start similar kind of dts series in your local area, maybe give it a different name. Just keep it civil for the most part..</em></div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Stop using hashtags. Stfu you whiny bitch. You created this platform. We will use it the way we want it to. Fire This Annoying Loser.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Should I start tweeting again?</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Which way Western Man? Another lame post. Again, Fire This <a href="https://x.com/cb_doge"><em>Doge Guy</em>.</a> A bigtime bully who is paid to make clout for his master.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">I made $11.50 in my first job. Dawg, you also bought a house for 10k back in your days...</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Everyday when they put you out of work is an insult to all your hard work, the institutions you went to, and the smart people you had worked with since you are an overall product of your surroundings.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Should recruiters who ghost you—like the good ol' days—be given a death penalty?—<em>A Hyperbolic Statement..</em></div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Good old-fashioned lynchings aka public executions on Sundays' will fire up people and bring back the Wild West..</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Looks like Nvidia is cheerleading hard for Mr. Musk's xAI.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">When they leak all those corporate chats even after you leave, to further prove your incompetency. <em>Bruh, I was slacking intentionally to eventually get fired from that lame ass job.</em> Don't you still get it?</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Every company should follow the lead of <a href="https://www.crowdstrike.com">Crowdstrike's Website</a>. Only focus on talking about products and services. A brief introduction of C-level execs and board of directors. No more ridiculous <em>life at xyz company or exotic display of work culture</em>.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">They are forcing me to make money by investing in crypto, the world which I am totally alien to.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text"><em>Date a person who invests in crypto. Find a sugar mommy, Son.</em></div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text"><em>Timezones are a tremendous barrier to scheduling calls nowadays..</em></div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text"><em>Timezone conversion is soooo hard..</em></div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Is SF Tech Week only for SF people? Good Riddance.. Keep that crap within SF..</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Yet another extra one—<em>Musketeer only vibes with Masketeers.</em></div>
+    <div class="quote-text">Mr. Musk Momma Bear comes to save Grokipedia, Alas!!</div>
   </div>
 
   <div class="footer">
