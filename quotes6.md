@@ -343,6 +343,11 @@ xc
     <div class="quote-text">Avoid startups that have Clown-like names. You don't need to peek further into their culture. The name itself gives it all away.</div>
   </div>
 
+<div class="quote-card">
+    <div class="quote-text">Reminder -> Chosen one's can troll anyone they like and get away with it.</div>
+  </div>
+
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
