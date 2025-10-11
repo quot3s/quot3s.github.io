@@ -360,17 +360,25 @@ title: Wisdom & Wit
 <div class="quote-card">
    <div class="quote-text">If you want job security in your career, use pronouns in your bio. And don't talk shit about DEI, otherwise they will make sure you career will DIE.</div>
   </div>
-  
+
 <div class="quote-card">
    <div class="quote-text">Hey everyone, look at me I am so kind and inclusive, I use pronouns in my bio.</div>
   </div>
 
 <div class="quote-card">
-   <div class="quote-text">Who will save the West from self-sabotage?</div>
+   <div class="quote-text">All Google knows best is how to leak your data.</div>
   </div>
 
 <div class="quote-card">
    <div class="quote-text">This <a href="https://www.toughbyte.com">Toughbyte</a> place used to have so many hot recruiters. That's not the case anymore.</div>
+  </div>
+
+<div class="quote-card">
+   <div class="quote-text">If you can find luv work at work, why even bother going out dancing and try to impress? Reality is that draconian workplace dating laws have made it next to impossible to approach women with confidence at work. Just get the work done and leave.</div>
+  </div>
+
+<div class="quote-card">
+   <div class="quote-text">Who will save the West from self-sabotage?</div>
   </div>
 
   <div class="footer">
