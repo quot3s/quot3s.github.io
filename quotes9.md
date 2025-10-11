@@ -366,11 +366,11 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-   <div class="quote-text">This <a href="https://www.toughbyte.com">Toughbyte</a> place used to have so many hot recruiters. That's not the case anymore.</div>
+   <div class="quote-text">This <a href="https://www.toughbyte.com">Toughbyte</a> place used to have so many hot recruiters. Think of those waitresses at hooters kind. That's not the case anymore :(</div>
   </div>
 
 <div class="quote-card">
-   <div class="quote-text">If you can find luv work at work, why even bother going out dancing and try to impress? Reality is that draconian workplace dating laws have made it next to impossible to approach women with confidence at work. Just get the work done and leave.</div>
+   <div class="quote-text">If you can find luv work at work, why even bother going out dancing or clubbing and try to impress? Reality is that draconian workplace dating laws have made it next to impossible to approach women with confidence at work. Just get the work done and leave.</div>
   </div>
 
 <div class="quote-card">
