@@ -343,7 +343,7 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Reminder -> Chosen one's can troll anyone they like and get away with it.</div>
+    <div class="quote-text">Reminder -> Chosen one's can troll anyone they like, including other Chosen one's and get away with it.</div>
   </div>
 
 <div class="quote-card">
@@ -370,11 +370,13 @@ title: Wisdom & Wit
     <div class="quote-text">No Lifeless Robots In My Backyard.</div>
   </div>
 
-
 <div class="quote-card">
-    <div class="quote-text">No Lifeless Robots In My Backyard.</div>
+    <div class="quote-text">I Envy European Architecture.</div>
   </div>
 
+<div class="quote-card">
+    <div class="quote-text">Eat Pancakes.</div>
+  </div>
 
   <div class="footer">
     <p>© 2025 - Curated with care</p>
