@@ -369,6 +369,10 @@ title: Wisdom & Wit
    <div class="quote-text">Who will save the West from self-sabotage?</div>
   </div>
 
+<div class="quote-card">
+   <div class="quote-text">This <a href="https://www.toughbyte.com">Toughbyte</a> place used to have so many hot recruiters. That's not the case anymore.</div>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
