@@ -211,6 +211,9 @@ title: Wisdom & Wit
   }
 </style>
 
+<!-- Audio Player CSS -->
+<link rel="stylesheet" href="./assets/audio-player.css">
+
 <div class="container">
   <div class="terminal-header">
     <div class="terminal-button"></div>
@@ -272,6 +275,30 @@ title: Wisdom & Wit
   </div>
 </div>
 
+<!-- Audio Player -->
+<div class="audio-player">
+  <div class="audio-player-header">
+    <div class="audio-player-title">♪ CYBERTRACK</div>
+  </div>
+  <div class="audio-controls">
+    <button class="play-btn" id="playBtn" aria-label="Play/Pause">▶</button>
+    <div class="volume-control">
+      <span class="volume-icon">♪</span>
+      <input type="range" min="0" max="100" value="50" class="volume-slider" id="volumeSlider" aria-label="Volume">
+    </div>
+  </div>
+  <div class="audio-visualizer" id="visualizer">
+    <div class="visualizer-bar"></div>
+    <div class="visualizer-bar"></div>
+    <div class="visualizer-bar"></div>
+    <div class="visualizer-bar"></div>
+    <div class="visualizer-bar"></div>
+    <div class="visualizer-bar"></div>
+    <div class="visualizer-bar"></div>
+    <div class="visualizer-bar"></div>
+  </div>
+</div>
+
 <script>
   // Lightweight matrix rain effect
   const chars = '01アイウエオカキクケコサシスセソタチツテト';
@@ -323,3 +350,8 @@ title: Wisdom & Wit
   
   createMatrixRain();
 </script>
+
+<!-- Tone.js Library -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tone/14.8.49/Tone.js"></script>
+<!-- Audio Player Script -->
+<script src="./assets/audio-player.js"></script>
