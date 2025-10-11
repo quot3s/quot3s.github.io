@@ -262,15 +262,39 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-   <div class="quote-text">Start journaling if you have anger issues...</div>
-  </div>
-
-<div class="quote-card">
    <div class="quote-text">Do you post Pep talks on instagram or linkedin?</div>
   </div>
 
 <div class="quote-card">
-   <div class="quote-text">I am really running out of content now.. need to brainstorm harder..</div>
+   <div class="quote-text">Start journaling if you have anger issues...</div>
+  </div>
+
+<div class="quote-card">
+   <div class="quote-text">I am really running out of content now.. let me brainstorm harder..</div>
+  </div>
+
+<div class="quote-card">
+   <div class="quote-text">AI will not take away all the jobs, but it is definitely getting rid of entry-level jobs, leading to team downsizing.</div>
+  </div>
+
+<div class="quote-card">
+   <div class="quote-text">When they try to sell you AI Art and think that it will come any closer to outpace human creativity, ingenuity, depth and emotions.</div>
+  </div>
+
+<div class="quote-card">
+   <div class="quote-text">AI let's you google things at super-human speed.</div>
+  </div>
+
+<div class="quote-card">
+   <div class="quote-text">I just copy-paste the debug error and let AI do the troubleshooting for me at times of peak laziness.</div>
+  </div>
+
+<div class="quote-card">
+   <div class="quote-text"><em>I can keep talking about AI all day...</em></div>
+  </div>
+
+<div class="quote-card">
+   <div class="quote-text">Is the economy really this bad or are they intentionally hoarding and stalling to ooze out ounce of creativity. <em>Tough times and dire economic circumstances do bring the best out of people...</em></div>
   </div>
 
   <div class="footer">
