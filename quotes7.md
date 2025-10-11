@@ -303,7 +303,7 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Mr. Musk could have just hired me in the first place at Tesla/Paypal/X back in the day but rather chose to get distracted by politics and name-calling.</div>
+    <div class="quote-text">Mr. Musk could have just hired me in the first place at Tesla/Paypal/X back in the day but rather chose to get distracted by politics and name-calling. We would be having a chilled beer at the Tesla Diner right now. I guess <em>Fate Loves Irony</em></div>
   </div>
 
 <div class="quote-card">
