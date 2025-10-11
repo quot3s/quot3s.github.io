@@ -354,8 +354,13 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">When they leak all those corporate chats even after you leave, to prove that you are incompetent. Bruh, I was slacking intentionally to get eventually fired from that lame ass job..</div>
+    <div class="quote-text">When they leak all those corporate chats even after you leave, to further prove your incompetency. Bruh, I was slacking intentionally to eventually get fired from that lame ass job. Don't you still get it?</div>
   </div>
+
+<div class="quote-card">
+    <div class="quote-text">Is SF Tech Week only for SF people? Good riddance then. Keep that crap within SF.</div>
+  </div>
+
 
   <div class="footer">
     <p>© 2025 - Curated with care</p>
