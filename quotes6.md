@@ -338,6 +338,11 @@ title: Wisdom & Wit
     <div class="quote-text">Keep calms, it's going to get more vulgar down the road #VulgarCon begins.</div>
   </div>
 
+<div class="quote-card">
+    <div class="quote-text">What are the qualifications required to work at Macrohard, I wonder. It might end up auto-rejecting an entire race.</div>
+  </div>
+
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
