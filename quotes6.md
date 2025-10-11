@@ -290,6 +290,11 @@ title: Wisdom & Wit
     <div class="quote-text">Only Christ can save you, Son.</div>
   </div>
 
+<div class="quote-card">
+    <div class="quote-text">Meet Macrohard. Microsoft's arch nemesis.</div>
+  </div>
+
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
