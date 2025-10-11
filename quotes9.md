@@ -282,7 +282,7 @@ title: Wisdom & Wit
   </div>
 
   <div class="quote-card">
-   <div class="quote-text">Check out Top Shitposter -> <a href="https://x.com/vxundeground">Mr. Malware Researcher</a> & Top Silent Reposter -> <a href="https://x.com/hashererand">Ms. Malware Researcher</a>.</div>
+   <div class="quote-text">Check out Top Shitposter -> <a href="https://x.com/vxundeground">Mr. Malware Researcher</a> & Top Silent Reposter -> <a href="https://x.com/hashererandi">Ms. Malware Researcher</a>.</div>
   </div>
 
   <div class="quote-card">
@@ -306,7 +306,7 @@ title: Wisdom & Wit
   </div>
 
   <div class="quote-card">
-   <div class="quote-text">Go to Sin City at least once in your lifetime. You deserve that much needed pleasure. Look up <a href="https://nocovernightclubs.com"><em>No Cover NightClubs</em></a> for free entry.</div>
+   <div class="quote-text">Go to Sin City at least once in your lifetime. You deserve that much needed pleasure. Look up <a href="https://nocovernightclubs.com"><em>No Cover NightClubs</em></a> for free guest list entry.</div>
   </div>
 
   <div class="quote-card">
@@ -314,7 +314,7 @@ title: Wisdom & Wit
   </div>
 
   <div class="quote-card">
-   <div class="quote-text">I didn't wanted to monetize posting all of my thoughts like others do for a living. That's very nice of me tbh.</div>
+   <div class="quote-text">I didn't wanted to monetize posting all of my thoughts like others do for a living.. that's very nice of me tbh..</div>
   </div>
 
   <div class="quote-card">
@@ -323,6 +323,14 @@ title: Wisdom & Wit
 
   <div class="quote-card">
    <div class="quote-text">They don't like it when you can do your job and are good at it, so they intentionally try to make it harder and go one step further to sabotage all aspects of your life #corporatelife</div>
+  </div>
+
+  <div class="quote-card">
+   <div class="quote-text">Also step outside of <em>Sin City</em> and explore nature and stuff.. Hoover Dam is a good start and then go from there..</div>
+  </div>
+
+  <div class="quote-card">
+   <div class="quote-text">Check out Grand Canyon from both the Nevada and Arizona sides.</div>
   </div>
 
   <div class="footer">
