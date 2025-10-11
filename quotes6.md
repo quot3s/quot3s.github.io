@@ -334,7 +334,6 @@ title: Wisdom & Wit
     <div class="quote-text">How do you explain a 2-year gap in your resume? "Sir, I went hiking up to the mountains to do some soul-searching and find inner-peace. Now, I have changed for the better." Literally, know a coworker who went for a 1-year trip to Nepal but she is white and they make visits to the East to do hippie things, so she is good.</div>
   </div>
 
-
 <div class="quote-card">
     <div class="quote-text">What are the qualifications required to work at Macrohard, I wonder. It might end up auto-rejecting an entire race.</div>
   </div>
@@ -353,6 +352,10 @@ title: Wisdom & Wit
 
 <div class="quote-card">
     <div class="quote-text">My culture is not your hairstyle - Stolen from a meme on twitter.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Download Grok. Grok Is Good.</div>
   </div>
 
   <div class="footer">
