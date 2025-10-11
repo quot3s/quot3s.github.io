@@ -309,6 +309,11 @@ title: Wisdom & Wit
    <div class="quote-text">Should I put Time-Travel Testing (T3) on my resume? I am a bit shy and hesitant to do so.</div>
   </div>
 
+<div class="quote-card">
+   <div class="quote-text">People who work at <a href="https://www.huntress.com/company/our-company
+   ">Huntress</a> give me hippie vibes. Actually, most of the cybersecurity industry at this point. Dodged A Bullet. Hipsters Gallore!!</div>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
