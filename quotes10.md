@@ -297,6 +297,10 @@ title: Wisdom & Wit
    <div class="quote-text">Is the economy really this bad or are they intentionally hoarding and stalling to ooze out ounce of creativity. <em>Tough times and dire economic circumstances do bring the best out of people...</em></div>
   </div>
 
+<div class="quote-card">
+   <div class="quote-text">Oooh...!! I want to make a living by shitpostig in this AI bubble. That would be a great use of my newly discovered talent !!</div>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
