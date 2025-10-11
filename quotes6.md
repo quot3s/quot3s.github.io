@@ -327,11 +327,15 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">I doubt how did you become a Staff Security Advocate. Did anyone do a medical check? Probably not. The inmates are still running the asylum.</div>
+    <div class="quote-text">I doubt how did you become a Staff Security Advocate. Did anyone do a medical check on you? Probably not. The inmates are <em>still</em> running the asylum.</div>
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">How do you explain a 2-year gap in your resume? Sir, I went hiking up to the mountains to do some soul-searching and find inner-peace. Now, I have changed for the better.</div>
+    <div class="quote-text">How do you explain a 2-year gap in your resume? "Sir, I went hiking up to the mountains to do some soul-searching and find inner-peace. Now, I have changed for the better." Literally, know a coworker who went for a 1-year trip to Nepal but she is white so gets a pass.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Keep calms, it's going to get more vulgar down the road #VulgarCon begins.</div>
   </div>
 
   <div class="footer">
