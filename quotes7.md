@@ -356,6 +356,19 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
+    <div class="quote-text">Looks like the X algorithm improved drasticallty today. No more psychotic rants of cancelling Netflix.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Upon further research, I learnt that pewdiepie is a cutiepie.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">hey everyone, look at me I am so cool. I do low-level embedded programming. Lmao.</div>
+  </div>
+
+
+<div class="quote-card">
     <div class="quote-text"><em>These marvelous quotes are spontaneous. Not pre-planned or scripted at all as you can tell.</em></div>
   </div>
 
