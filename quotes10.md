@@ -331,11 +331,11 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-   <div class="quote-text">With my blessings, maybe someone might learn about the existence of an ancient language called LISP. <em>Never heard of it before tbh...</em></div>
+   <div class="quote-text"><em>With my blessings, maybe someone might learn about the existence of an ancient language called LISP... Never heard of it before tbh...</em></div>
   </div>
 
 <div class="quote-card">
-   <div class="quote-text">They think they own you if you work for them. Indeed, they do in a materialistic way.</div>
+   <div class="quote-text">They think they own you if you work for them. In a materialistic sense, they do own you.</div>
   </div>
 
   <div class="footer">
