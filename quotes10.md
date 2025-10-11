@@ -314,6 +314,14 @@ title: Wisdom & Wit
    ">Huntress</a> give me hippie vibes. Actually, most of the cybersecurity industry at this point. Dodged A Bullet. Hipsters Gallore!!</div>
   </div>
 
+<div class="quote-card">
+   <div class="quote-text">Who is this <a href="https://x.com/uwu_underground">Psyop Person</a>? What is the Psyop?</div>
+  </div>
+
+<div class="quote-card">
+   <div class="quote-text">When they can't manipulate you anymore, they label you as a 'Threat Actor'.</div>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
