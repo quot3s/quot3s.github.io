@@ -331,7 +331,7 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-   <div class="quote-text"><em>With my blessings, maybe the LISP community might get a huge following... Never heard of it before tbh...</em></div>
+   <div class="quote-text"><em>With my blessings, maybe the LISP community might get a huge following... Never heard of it before though tbh...</em></div>
   </div>
 
 <div class="quote-card">
@@ -339,7 +339,7 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-   <div class="quote-text">Is passive income really the way you want to make a living? It lacks the excitement that comes from engaging in active work. Too much 'Make Passive Income' noise.</div>
+   <div class="quote-text">Is passive income really the way you want to make a living? It lacks the excitement that comes from engaging in active work. Too much <em>Make Passive Income Noise</em>.</div>
   </div>
 
 <div class="quote-card">
@@ -371,7 +371,15 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-   <div class="quote-text">Stay in the East while the West get their shit sorted out.</div>
+   <div class="quote-text">Stay in the East while the West gets its situation sorted out.</div>
+  </div>
+
+<div class="quote-card">
+   <div class="quote-text">Also, make sure the non-english speaking country have google transalate banned and sign language is the only way to communicate to make it more fun.</div>
+  </div>
+
+<div class="quote-card">
+   <div class="quote-text">Lately, I came across Steam that is known to be a popular gaming platform. I am not a legit gamer though. <a href="https://www.myabandonware.com/">Abandonware</a> is something that I know of.</div>
   </div>
 
   <div class="footer">
