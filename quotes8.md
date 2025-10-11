@@ -278,7 +278,11 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Do you also share where you vacationed on LinkedIn?</div>
+    <div class="quote-text">Do you also share your vacation outings on LinkedIn?</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Do you listen to bollywod music when on a road trip to Arizona/Nevada/Colorado aka <em>Land Of The Natives</em>?</div>
   </div>
 
 <div class="quote-card">
