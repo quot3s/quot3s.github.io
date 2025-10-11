@@ -310,7 +310,11 @@ title: Wisdom & Wit
   </div>
 
   <div class="quote-card">
-   <div class="quote-text">If your company is very open-minded, then put all these quotes on a projector during lunch and learn's. Make copies of it. I might take it down anytime I wish.</div>
+   <div class="quote-text">If your company is very open-minded, then put all these quotes on a projector during lunch and learn's. Make copies of it. I might take it all down anytime I wish.</div>
+  </div>
+
+  <div class="quote-card">
+   <div class="quote-text">I didn't wanted to monetize posting all of my thoughts like others do for a living. That's very nice of me tbh.</div>
   </div>
 
   <div class="footer">
