@@ -330,7 +330,7 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Which way Western Man? Another lame post.</div>
+    <div class="quote-text">Which way Western Man? Another lame post. Get rid of this <a href="https://x.com/cb_doge"><em>Doge Guy</em>.</a></div>
   </div>
 
 <div class="quote-card">
@@ -338,7 +338,11 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Should recruiters who ghost you be given a death penalty like the goold ol' days?</div>
+    <div class="quote-text">Everyday they put you out of work is an insult to all your hard work, the institutions you went to, and the smart people you had worked with since you are an overall product of your surroundings.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Should recruiters who ghost you be given a death penalty like the good ol' days?</div>
   </div>
 
 <div class="quote-card">
@@ -346,9 +350,8 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Everyday they put you out of work is an insult to all your hard work, the institutions you went to, and the smart people you had worked with since you are an overall product of your surroundings.</div>
+    <div class="quote-text">Looks like Nvidia is cheerleading hard for Mr. Musk's xAI.</div>
   </div>
-
 
   <div class="footer">
     <p>© 2025 - Curated with care</p>
