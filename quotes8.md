@@ -322,8 +322,21 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Stop using hashtags. Stfu whiny bitch. You created the platform. We will use the way we want it to. Fire this annoying loser.</div>
+    <div class="quote-text">Stop using hashtags. Stfu you whiny bitch. You created this platform. We will use it the way we want it to. Fire This Annoying Loser.</div>
   </div>
+
+<div class="quote-card">
+    <div class="quote-text">Which way Western Man? Another lame post.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">I made $11.50 in my first job. Dawg, you also bought a house for 10k back in your days...</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Should recruiters who ghost be given a death penalty like the goold ol' days?</div>
+  </div>
+
 
   <div class="footer">
     <p>© 2025 - Curated with care</p>
