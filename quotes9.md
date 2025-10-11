@@ -321,6 +321,10 @@ title: Wisdom & Wit
    <div class="quote-text">Even introverts have a life outside of work.. they read books and stuff..</div>
   </div>
 
+  <div class="quote-card">
+   <div class="quote-text">They don't like it when you can do your job and are good at it, so they intentionally try to make it harder and go one step further to sabotage all aspects of your life #corporatelife</div>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
