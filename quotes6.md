@@ -307,7 +307,7 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Back then they said get a degree to land a 9-5 gig. Now tha'ts not needed anymore.</div>
+    <div class="quote-text">Back then they said get a degree to land a 9-5 gig. Now that's not needed anymore.</div>
   </div>
 
 <div class="quote-card">
@@ -323,17 +323,17 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Hey everyone, I support and care for illegals. You came here legally. Lol. Support both. Each have their own merits. Take over the entire country, one immigrant at a time.</div>
+    <div class="quote-text">Hey everyone, I support and care for illegals. You came here legally. Lol. Support both. Each have their own struggles. Take over the entire country, one immigrant at a time.</div>
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">I doubt how did you become a Staff Security Advocate. Did anyone do a medical check on you? Probably not. The inmates are <em>still</em> running the asylum.</div>
+    <div class="quote-text">I doubt how did you become a Staff Security Director. Did anyone do a medical check on you? Probably not. The inmates are <em>still</em> running the asylum.</div>
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">How do you explain a 2-year gap in your resume? "Sir, I went hiking up to the mountains to do some soul-searching and find inner-peace. Now, I have changed for the better." Literally, know a coworker who went for a 1-year trip to Nepal but she is white and they make visits the East to do hippie things, so she is good.</div>
+    <div class="quote-text">How do you explain a 2-year gap in your resume? "Sir, I went hiking up to the mountains to do some soul-searching and find inner-peace. Now, I have changed for the better." Literally, know a coworker who went for a 1-year trip to Nepal but she is white and they make visits to the East to do hippie things, so she is good.</div>
   </div>
-xc
+
 
 <div class="quote-card">
     <div class="quote-text">What are the qualifications required to work at Macrohard, I wonder. It might end up auto-rejecting an entire race.</div>
@@ -349,6 +349,10 @@ xc
 
 <div class="quote-card">
     <div class="quote-text">My updated resume is super-polished and tailored to your bon apetite. Ask for one. Get to know me.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">My culture is not your hairstyle - Stolen from a meme on twitter.</div>
   </div>
 
   <div class="footer">
