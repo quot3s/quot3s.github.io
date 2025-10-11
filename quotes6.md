@@ -74,8 +74,107 @@ title: Wisdom & Wit
 
   .header p {
     font-size: 1.2em;
-    opacity: 0.8;
+    opacity: 0.9;
     color: #00cc00;
+  }
+
+  .quote-card {
+    background: rgba(0, 30, 0, 0.6);
+    border: 1px solid #00ff00;
+    border-left: 4px solid #00ff00;
+    padding: 25px;
+    margin-bottom: 20px;
+    position: relative;
+    transition: all 0.3s ease;
+    box-shadow: 0 0 10px rgba(0, 255, 0, 0.1);
+  }
+
+  .quote-card::before {
+    content: '$ ';
+    position: absolute;
+    left: 8px;
+    top: 25px;
+    color: #00ff00;
+    font-weight: bold;
+    font-size: 1.2em;
+    opacity: 0.5;
+  }
+
+  .quote-card:hover {
+    background: rgba(0, 40, 0, 0.8);
+    border-left-width: 8px;
+    box-shadow: 0 0 20px rgba(0, 255, 0, 0.3);
+    transform: translateX(5px);
+  }
+
+  .quote-text {
+    font-size: 1.2em;
+    line-height: 1.6;
+    color: #00ff00;
+    padding-left: 25px;
+    position: relative;
+    z-index: 1;
+  }
+
+  .quote-text a {
+    color: #00ffff;
+    text-decoration: none;
+    border-bottom: 1px dashed #00ffff;
+    transition: all 0.3s;
+  }
+
+  .quote-text a:hover {
+    color: #00ff00;
+    border-bottom-color: #00ff00;
+    text-shadow: 0 0 5px #00ff00;
+  }
+
+  .quote-author {
+    font-size: 1em;
+    color: #00ff00;
+    font-weight: 600;
+    font-style: italic;
+    text-align: right;
+    padding-left: 25px;
+  }
+
+  .quote-author::before {
+    content: '— ';
+  }
+
+  .quote-author a {
+    color: #00ffff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+
+  .nav-link {
+    font-size: 1.2em;
+    font-weight: 600;
+    display: inline-block;
+    margin-bottom: 1rem;
+    text-decoration: none;
+    color: #00ff00;
+    padding: 8px 15px;
+    border: 1px solid #00ff00;
+    background: rgba(0, 255, 0, 0.05);
+    transition: all 0.3s ease;
+  }
+
+  .nav-link:hover {
+    background: rgba(0, 255, 0, 0.2);
+    box-shadow: 0 0 15px rgba(0, 255, 0, 0.5);
+    transform: translateX(5px);
+  }
+
+  .nav-link::before {
+    content: '> ';
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+
+  .nav-link:hover::before {
+    opacity: 1;
   }
 
   .footer {
@@ -83,92 +182,18 @@ title: Wisdom & Wit
     color: #00cc00;
     margin-top: 50px;
     padding: 20px;
-    opacity: 0.7;
+    opacity: 0.8;
     border-top: 1px solid #00ff00;
   }
 
   .disclaimer {
     text-align: center;
-    margin-bottom: 30px;
-    background: rgba(0, 30, 0, 0.6);
-    border: 1px solid #00ff00;
-    border-left: 4px solid #00ff00;
-    padding: 25px;
-    position: relative;
-    transition: all 0.3s ease;
-    box-shadow: 0 0 10px rgba(0, 255, 0, 0.1);
-  }
-
-  .disclaimer:hover {
-    background: rgba(0, 40, 0, 0.8);
-    box-shadow: 0 0 20px rgba(0, 255, 0, 0.3);
-    transform: translateY(-2px);
-  }
-
-  .disclaimer h1 {
-    font-size: 1.5em;
-    color: #00ff00;
-    margin-bottom: 15px;
-    letter-spacing: 3px;
-  }
-
-  .disclaimer h1::before {
-    content: '[ ';
-    color: #00ff00;
-  }
-
-  .disclaimer h1::after {
-    content: ' ]';
-    color: #00ff00;
-  }
-
-  .quotes-link {
-    display: inline-block;
-    margin-top: 10px;
-    padding: 12px 30px;
-    background: rgba(0, 255, 0, 0.1);
-    color: #00ff00;
-    text-decoration: none;
-    border: 2px solid #00ff00;
-    font-weight: 600;
-    font-size: 1em;
-    transition: all 0.3s ease;
-    box-shadow: 0 0 10px rgba(0, 255, 0, 0.2);
-    letter-spacing: 2px;
-  }
-
-  .quotes-link:hover {
-    background: rgba(0, 255, 0, 0.2);
-    color: #00ff00;
-    transform: translateY(-2px);
-    box-shadow: 0 0 25px rgba(0, 255, 0, 0.5);
-  }
-
-  .quotes-link::before {
-    content: '> ';
-  }
-
-  .quotes-link::after {
-    content: ' _';
-    animation: blink 1s infinite;
-  }
-
-  @keyframes blink {
-    0%, 49% { opacity: 1; }
-    50%, 100% { opacity: 0; }
-  }
-
-  #quotes-page-content {
-    display: none;
-  }
-
-  .ascii-art {
-    text-align: center;
-    color: #00ff00;
-    font-size: 0.6em;
-    line-height: 1.2;
-    margin: 20px 0;
-    opacity: 0.6;
+    padding: 20px;
+    background: rgba(255, 0, 0, 0.1);
+    border: 1px solid #ff0000;
+    color: #ff3333;
+    margin: 30px 0;
+    box-shadow: 0 0 10px rgba(255, 0, 0, 0.2);
   }
 
   .terminal-header {
@@ -194,81 +219,67 @@ title: Wisdom & Wit
     font-size: 0.9em;
     color: #00ff00;
   }
-  
+
   @media (max-width: 768px) {
     .header h1 {
       font-size: 2em;
     }
-    
-    .disclaimer {
+
+    .quote-card {
       padding: 20px;
     }
-    
-    .quotes-link {
-      font-size: 0.9em;
-      padding: 10px 20px;
+
+    .quote-text {
+      font-size: 1.1em;
     }
   }
 </style>
 
+<div class="terminal-header">
+  <div class="terminal-button"></div>
+  <div class="terminal-button"></div>
+  <div class="terminal-button"></div>
+  <div class="terminal-title">terminal@quotes6:~$</div>
+</div>
+
+<a href="https://quot3s.github.io/" class="nav-link">← Back to Home</a>
+
+<br />
+
+<br />
+
+<a href="https://quot3s.github.io/quotes5" class="nav-link">Prev</a>
+<span style="color: #00ff00; margin: 0 10px;">|</span>
+<a href="#" class="nav-link">Next</a>
+
 <div class="container">
-  <div class="terminal-header">
-    <div class="terminal-button"></div>
-    <div class="terminal-button"></div>
-    <div class="terminal-button"></div>
-    <div class="terminal-title">root@wisdom:~$</div>
-  </div>
-
   <div class="header">
-    <div class="ascii-art">
-      ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄<br>
-      █░██░█░███░█░▄▄█░▄▀█░▄▄█░▄▀▄░█<br>
-      █░▀▀▄█░█░█░█░▄▄█░█░█░▄▄█░█▄█░█<br>
-      █▄█▄▄█▄▀▄▀▄█▄▄▄█▄▄██▄▄▄█▄███▄█<br>
-      ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-    </div>
-    <p>// A collection of thoughts, reflections, and musings //</p>
-    <p style="font-size: 0.8em; margin-top: 10px; color: #00cc00;">[ SYSTEM INITIALIZED ] - [ ACCESS GRANTED ]</p>
+    <h1>WISDOM & WIT</h1>
+    <p>A collection of thoughts, reflections, and musings</p>
   </div>
 
-  <div class="disclaimer">
-    <h1>Quotes 1</h1>
-    <a href="./quotes1" class="quotes-link">View All Quotes</a>
+<div class="quote-card">
+    <div class="quote-text">Anyone who goes clubbing is a pewdiepie (Get The Pun).</div>
   </div>
 
-  <div class="disclaimer">
-    <h1>Quotes 2</h1>
-    <a href="./quotes2" class="quotes-link">View All Quotes</a>
+<div class="quote-card">
+    <div class="quote-text">Anyone who goes latin dancing is a pewdiepie (Get The Pun).</div>
   </div>
 
-  <div class="disclaimer">
-    <h1>Quotes 3</h1>
-    <a href="./quotes3" class="quotes-link">View All Quotes</a>
+<div class="quote-card">
+    <div class="quote-text">Anyone who goes to church is a pewdiepie (Get The Pun).</div>
   </div>
 
-  <div class="disclaimer">
-    <h1>Quotes 4</h1>
-    <a href="./quotes4" class="quotes-link">View All Quotes</a>
-  </div>
-
-  <div class="disclaimer">
-    <h1>Quotes 5</h1>
-    <a href="./quotes5" class="quotes-link">View All Quotes</a>
-  </div>
-
-  <div class="disclaimer">
-    <h1>Quotes 6</h1>
-    <a href="./quotes6" class="quotes-link">View All Quotes</a>
+<div class="quote-card">
+    <div class="quote-text">Who invented byteMeCoin?</div>
   </div>
 
   <div class="footer">
-    <p>© 2025 - Curated with sudo privileges</p>
-    <p style="font-size: 0.8em; margin-top: 5px;">[ SYSTEM STATUS: ONLINE ]</p>
+    <p>© 2025 - Curated with care</p>
   </div>
 </div>
 
 <script>
-  // Lightweight matrix rain effect
   const chars = '01アイウエオカキクケコサシスセソタチツテト';
   let drops = [];
   

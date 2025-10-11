@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Personal Quotes Only (PQO)
+title: Wisdom & Wit
 ---
 
 <style>
@@ -250,7 +250,7 @@ title: Personal Quotes Only (PQO)
 
 <a href="https://quot3s.github.io/quotes4" class="nav-link">Prev</a>
 <span style="color: #00ff00; margin: 0 10px;">|</span>
-<a href="#" class="nav-link">Next</a>
+<a href="https://quot3s.github.io/quotes6" class="nav-link">Next</a>
 
 <div class="container">
   <div class="header">
