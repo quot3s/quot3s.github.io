@@ -366,6 +366,16 @@ title: Wisdom & Wit
     <div class="quote-text">Key Features if you want to sell your robot to me. Must be able to dance and fight.</div>
   </div>
 
+<div class="quote-card">
+    <div class="quote-text">No Lifeless Robots In My Backyard.</div>
+  </div>
+
+
+<div class="quote-card">
+    <div class="quote-text">No Lifeless Robots In My Backyard.</div>
+  </div>
+
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
