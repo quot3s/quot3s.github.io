@@ -378,6 +378,11 @@ title: Wisdom & Wit
     <div class="quote-text">Eat Pancakes.</div>
   </div>
 
+<!-- Wow. Starlink can be used in the mountains as long as you have an unobstructed view of the sky for the dish to connect with satellites -->
+<div class="quote-card">
+    <div class="quote-text">I need Starlink no matter where I go so that I can stay in touch with Musketeer and his cheerleaders constant rambling.</div>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
