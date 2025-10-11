@@ -287,7 +287,7 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Train Me. Hire Me. And Deploy Me.</div>
+    <div class="quote-text"><em>Train Me. Hire Me. And Deploy Me.</em></div>
   </div>
 
 <div class="quote-card">
@@ -307,7 +307,15 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">For some reason, if you are married and have a kid, the whole game changes. Elite treatment. Single folks are crucified, the likes of which you have never seen before.</div>
+    <div class="quote-text">For some reason, if you are married and have a kid, the whole game changes. Elite Treatment. Single folks are crucified to the core, the likes of which you have never seen before.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Get Married. Have Kids. They Say. <em>When the economy is ridiculously ridiculous.</em></div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text"><em>These marvelous quotes are spontaneous. Not pre-planned or scripted at all as you can tell.</em></div>
   </div>
 
   <div class="footer">
