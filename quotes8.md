@@ -326,6 +326,10 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
+    <div class="quote-text">Should I start tweeting again?</div>
+  </div>
+
+<div class="quote-card">
     <div class="quote-text">Which way Western Man? Another lame post.</div>
   </div>
 
@@ -334,7 +338,11 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Should recruiters who ghost be given a death penalty like the goold ol' days?</div>
+    <div class="quote-text">Should recruiters who ghost you be given a death penalty like the goold ol' days?</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Everyday they put you out of work is an insult to all your hard work, the institutions you went to, and the smart people you had worked with since you are an overall product of your surroundings.</div>
   </div>
 
 
