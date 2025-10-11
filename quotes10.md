@@ -251,134 +251,14 @@ title: Wisdom & Wit
 
 <br />
 
-<a href="https://quot3s.github.io/quotes8" class="nav-link">Prev</a>
+<a href="https://quot3s.github.io/quotes9" class="nav-link">Prev</a>
 <span style="color: #00ff00; margin: 0 10px;">|</span>
-<a href="https://quot3s.github.io/quotes10" class="nav-link">Next</a>
+<a href="#" class="nav-link">Next</a>
 
 <div class="container">
   <div class="header">
     <h1>WISDOM & WIT</h1>
     <p>A collection of thoughts, reflections, and musings</p>
-  </div>
-
-  <div class="quote-card">
-    <div class="quote-text">Mr. Musk's Momma Bear comes to rescue Grokipedia, Alas!!</div>
-  </div>
-
-  <div class="quote-card">
-   <div class="quote-text">When you are looking for your sixth job (if namesake internship included), and you get a fresh graduate treatment.</div>
-  </div>
-
-  <div class="quote-card">
-   <div class="quote-text">Peeps don't lie, and peeps don't cry!</div>
-  </div>
-
-  <div class="quote-card">
-   <div class="quote-text">Wikipedia alternative Grokipedia will be no different. The former is more refined and polished in it's approach while the latter would be brutally raw and unfiltered. Those people who would be running 'em would have one thing in common. Guess what?</div>
-  </div>
-
-  <div class="quote-card">
-   <div class="quote-text">Sir, I did not go to any universities or get any certifications. I learnt everything on my own with some community support while I was flipping burgers and working late nights at gas stations for a living. My struggle is a testament to unwavering success and justifies burning down all the elite universities to the ground as they have failed our generations miserably.</div>
-  </div>
-
-  <div class="quote-card">
-   <div class="quote-text">Check out Top Shitposter -> <a href="https://x.com/vxundeground">Mr. Malware Researcher</a> & Top Silent Reposter -> <a href="https://x.com/hashererandi">Ms. Malware Researcher</a>.</div>
-  </div>
-
-  <div class="quote-card">
-   <div class="quote-text">When your South Indian coworker is jamming to Tollywood at work? Doesn't even feel like you are working in the States. Lol.</div>
-  </div>
-
-  <div class="quote-card">
-   <div class="quote-text">When your American coworker is watching streamers play video games after 4 until clock out to pass time cuz things slow down a bit later during closing hours. Another Lol Factzzaa</div>
-  </div>
-
-  <div class="quote-card">
-   <div class="quote-text">Oooh! I am sooo attracted to the dollar. Dollar is sooo goood.. it will make me more amd more richer.. <em>$$$$ Is All I Need $$$$</em></div>
-  </div>
-
-  <div class="quote-card">
-   <div class="quote-text">Somedays, I feel like a veteran who whole-heartedly served his country in his prime years and yet ended up homeless, disrespected and neglected.</div>
-  </div>
-
-  <div class="quote-card">
-   <div class="quote-text">Like I have said earlier, you cannot compare first-world problems to third-world problems. Deal with your own problems in your homeland first.</div>
-  </div>
-
-  <div class="quote-card">
-   <div class="quote-text">Go to Sin City at least once in your lifetime. You deserve that much needed pleasure. Look up <a href="https://nocovernightclubs.com"><em>No Cover NightClubs</em></a> for free guest list entry.</div>
-  </div>
-
-  <div class="quote-card">
-   <div class="quote-text">If your company is very open-minded, then put all these quotes on a projector during lunch and learn's. <em>Make copies of it.. I might take it all down anytime I wish..</em></div>
-  </div>
-
-  <div class="quote-card">
-   <div class="quote-text">I didn't wanted to monetize posting all of my thoughts like others do for a living.. that's very nice of me tbh..</div>
-  </div>
-
-  <div class="quote-card">
-   <div class="quote-text">Even introverts have a life outside of work.. they read books and stuff..</div>
-  </div>
-
-  <div class="quote-card">
-   <div class="quote-text">They don't like it when you can do your job and are good at it, so they intentionally try to make it harder and go one step further to sabotage all aspects of your life #corporatelife</div>
-  </div>
-
-  <div class="quote-card">
-   <div class="quote-text">Also step outside of <em>Sin City</em> and explore nature and stuff.. Hoover Dam is a good start and then go from there..</div>
-  </div>
-
-  <div class="quote-card">
-   <div class="quote-text">Check out Grand Canyon from both the Nevada and Arizona sides.</div>
-  </div>
-
-  <div class="quote-card">
-   <div class="quote-text">My bad luck is so bad that I end up meeting girls when they are either in their feminist or any sort of activist era..or lesbian and later end up switching their pronouns from they/them to she/her and start liking guys.. few years later check back their insta and the gal settled down with a surprisingly divine feminine glow up.. Like What The Hell, Son!</div>
-  </div>
-
-  <div class="quote-card">
-   <div class="quote-text">Even a man can be a hardcore feminist or at least pretend to be one to get some. Lol.</div>
-  </div>
-
-<div class="quote-card">
-   <div class="quote-text">Liberal men is an oxymoron in itself.</div>
-  </div>
-
-<div class="quote-card">
-   <div class="quote-text">Modern women would rather pander to their bosses and corporate masters rather than to their husbands. Housewives are going out of fashion and divorce rates are skyrocketing.</div>
-  </div>
-
-  <div class="quote-card">
-   <div class="quote-text">Fashion models are the best cuz they don't go around acting like a feminazi destroying men's lives.</div>
-  </div>
-
-<div class="quote-card">
-   <div class="quote-text">Modern feminism is way too cancerous.</div>
-  </div>
-
-<div class="quote-card">
-   <div class="quote-text">If you want job security in your career, use pronouns in your bio. And don't talk shit about DEI, otherwise they will make sure you career will DIE.</div>
-  </div>
-
-<div class="quote-card">
-   <div class="quote-text">Hey everyone, look at me I am so kind and inclusive, I use pronouns in my bio.</div>
-  </div>
-
-<div class="quote-card">
-   <div class="quote-text">This <a href="https://www.toughbyte.com">Toughbyte</a> place used to have so many hot recruiters. That's not the case anymore.</div>
-  </div>
-
-<div class="quote-card">
-   <div class="quote-text">If you can find luv work at work, why even bother going out dancing and try to impress? Reality is that draconian workplace dating laws have made it next to impossible to approach women with confidence at work. Just get the work done and leave.</div>
-  </div>
-
-<div class="quote-card">
-   <div class="quote-text">All Google knows best is how to leak your data.</div>
-  </div>
-
-<div class="quote-card">
-   <div class="quote-text">Who will save the West from self-sabotage?</div>
   </div>
 
   <div class="footer">
