@@ -333,15 +333,15 @@ title: Wisdom & Wit
 <div class="quote-card">
     <div class="quote-text">How do you explain a 2-year gap in your resume? "Sir, I went hiking up to the mountains to do some soul-searching and find inner-peace. Now, I have changed for the better." Literally, know a coworker who went for a 1-year trip to Nepal but she is white so gets a pass.</div>
   </div>
-
-<div class="quote-card">
-    <div class="quote-text">Keep calms, it's going to get more vulgar down the road #VulgarCon begins.</div>
-  </div>
+xc
 
 <div class="quote-card">
     <div class="quote-text">What are the qualifications required to work at Macrohard, I wonder. It might end up auto-rejecting an entire race.</div>
   </div>
 
+<div class="quote-card">
+    <div class="quote-text">Avoid startups that have Clown-like names. You don't need to peek further into their culture. The name itself gives it all away.</div>
+  </div>
 
   <div class="footer">
     <p>© 2025 - Curated with care</p>
