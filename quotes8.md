@@ -251,9 +251,9 @@ title: Wisdom & Wit
 
 <br />
 
-<a href="https://quot3s.github.io/quotes6" class="nav-link">Prev</a>
+<a href="https://quot3s.github.io/quotes7" class="nav-link">Prev</a>
 <span style="color: #00ff00; margin: 0 10px;">|</span>
-<a href="https://quot3s.github.io/quotes8" class="nav-link">Next</a>
+<a href="#" class="nav-link">Next</a>
 
 <div class="container">
   <div class="header">
@@ -262,125 +262,9 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">I was always cool, Son. You just learnt that now. Late to the party.</div>
+    <div class="quote-text">Merritt Family Last Name Origin: In 1940, Laborer and Maid were the top reported jobs for men and women in the USA named Merritt. 17% of Merritt men worked as a Laborer and 7% of Merritt women worked as a Maid. Some less common occupations for Americans named Merritt were Truck Driver and Housekeeper.</div>
   </div>
 
-<div class="quote-card">
-    <div class="quote-text">I need to buy a new suit ASAP. Just landed a consulting gig finally.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Always negotiate multiple offers and go with the one that matches your lifestyle.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text"><em>Reality of life</em> — Beggars are not choosers.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">No one know what's best for you other than you. Always choose yourself.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">$28-$30/hr way below min. wage for smart IT workers.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Don't let someone's low opinion of yours dim your light.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text"><em>Train Me. Hire Me. And Deploy Me.</em></div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Unsubscribe button is how God appears in your life through the digital world.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Master's degree did not train me at all. I need further training on how to operate in the real corperate world.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Apparently, public shaming, creating noise and calling people out is the only way to get things done nowadays. Barbaric and loud voices are heard and immediately paid attention to. Otherwise, your file just sits in a dusty corner dying a slow death.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Mr. Musk could have just hired me in the first place at Tesla/Paypal/X back in the day but rather chose to get distracted by politics and name-calling. We would be having a chilled beer at the Tesla Diner right now. I guess <em>Fate Loves Irony</em>.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">For some reason, if you are married and have a kid, the whole game changes. Elite Treatment. Single folks are crucified to the core, the likes of which you have never seen before.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Get Married. Have Kids. They Say. <em>When the economy is ridiculously ridiculous.</em></div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Never done contract work. Are they At-Will as well? Do I need to run away and go in hiding to some other state before the contract expires?</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">I know real estate &$%#@$@# are also looking at these wonderful rants.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">They know your situation, pity you and laugh at you and also try to make it even more worse.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Online leasing — Big Red Flag (BRF). Paperwork is the way to go. They handle it the old-fashioned way. Most importantly they mind their own business.</div>
-</div>
-
-<div class="quote-card">
-    <div class="quote-text">When even the landlord monitors your twitter feed and is on snapchat. Really Sad. No privacy at all.</div>
-</div>
-
-<div class="quote-card">
-    <div class="quote-text"><a href="https://audioguide.medievaltorturemuseum.com/chicago/
-    ">Medieval Torture Museum Audio Guide.</a></div>
-</div>
-
-<div class="quote-card">
-    <div class="quote-text">All of these 69/420 jokes are so kiddish.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">For the developed nations, video calling is now also accesible in the developing world.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Back then they would inspect H-1B's on work-sites only. Now they even know where you got your furniture from, or the even list of shopping items you had purchased. Lol. Creepiness is just next-level. <em>Chinese spies & espionage</em> stories we have heard a lot. Indian H-1B's are just building stuff since India is mostly service-industry in the IT sector. The trend that is changing lately.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Mad Men take your anger out at someone else. Everything is not directed towards you.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Looks like the X algorithm improved drasticallty today. No more psychotic rants of cancelling Netflix.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Upon further research, I learnt that pewdiepie is a cutiepie.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Hey everyone, look at me I am so cool. I do low-level embedded programming. Lmao.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">Always get your wine from a nearby Eataly store.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text">When someone does smart metrics conversion online for you. So caring and inclusive. Somebody give him the nobel peace prize for creating an environment of shared understanding.</div>
-  </div>
-
-<div class="quote-card">
-    <div class="quote-text"><em>These marvelous quotes are spontaneous. Not pre-planned or scripted at all as you can tell.</em></div>
-  </div>
 
   <div class="footer">
     <p>© 2025 - Curated with care</p>
