@@ -10,7 +10,7 @@ title: Wisdom & Wit
     font-family: 'Share Tech Mono', 'Courier New', monospace;
     background: #0a0a0a;
     color: #00ff00;
-    min-height: 100vh;
+    min-height: 100vh;"
     margin: 0;
     padding: 20px;
     position: relative;

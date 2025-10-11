@@ -330,7 +330,7 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Which way Western Man? Another lame post. Get rid of this <a href="https://x.com/cb_doge"><em>Doge Guy</em>. Bullying Creep.</a></div>
+    <div class="quote-text">Which way Western Man? Another lame post. Again, Fire This <a href="https://x.com/cb_doge"><em>Doge Guy</em>.</a> A bigtime bully who is paid to make clout for his master.</div>
   </div>
 
 <div class="quote-card">
@@ -338,11 +338,11 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Everyday they put you out of work is an insult to all your hard work, the institutions you went to, and the smart people you had worked with since you are an overall product of your surroundings.</div>
+    <div class="quote-text">Everyday when they put you out of work is an insult to all your hard work, the institutions you went to, and the smart people you had worked with since you are an overall product of your surroundings.</div>
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Should recruiters who ghost you—like the good ol' days—be given a death penalty?</div>
+    <div class="quote-text">Should recruiters who ghost you—like the good ol' days—be given a death penalty?—<em>A Hyperbolic Statement..</em></div>
   </div>
 
 <div class="quote-card">
@@ -354,19 +354,31 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">When they leak all those corporate chats even after you leave, to further prove your incompetency. Bruh, I was slacking intentionally to eventually get fired from that lame ass job. Don't you still get it?</div>
+    <div class="quote-text">When they leak all those corporate chats even after you leave, to further prove your incompetency. <em>Bruh, I was slacking intentionally to eventually get fired from that lame ass job.</em> Don't you still get it?</div>
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Is SF Tech Week only for SF people? Good riddance then. Keep that crap within SF.</div>
+    <div class="quote-text">Every company should follow the lead of <a href="https://www.crowdstrike.com">Crowdstrike's Website</a>. Only focus on talking about products and services. A brief introduction of C-level execs and board of directors. No more ridiculous <em>life at xyz company or exotic display of work culture</em>.</div>
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Different timezones are a tremendous barrier to schedule calls nowadays.</div>
+    <div class="quote-text">They are forcing me to make money by investing in crypto, the world which I am totally alien to.</div>
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Timezone conversion is soooo hard...</div>
+    <div class="quote-text"><em>Date a person who invests in crypto. Find a sugar mommy, Son.</em></div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text"><em>Timezones are a tremendous barrier to scheduling calls nowadays..</em></div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text"><em>Timezone conversion is soooo hard..</em></div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Is SF Tech Week only for SF people? Good Riddance.. Keep that crap within SF..</div>
   </div>
 
   <div class="footer">
