@@ -323,7 +323,7 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-   <div class="quote-text">Trust me. Nobody wants to work for the 3 Big Musketeers even in a parallel universe. They all just admire the fat paycheck. Get that right first.</div>
+   <div class="quote-text">Trust me. Nobody wants to work for the 3 Big Musketeers even in a parallel universe. They all just admire the fat paycheck and lofty stock options. Get that right first.</div>
   </div>
 
 <div class="quote-card">
@@ -331,7 +331,7 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-   <div class="quote-text"><em>With my blessings, maybe someone might learn about the existence of an ancient language called LISP... Never heard of it before tbh...</em></div>
+   <div class="quote-text"><em>With my blessings, maybe the LISP community might get a huge following... Never heard of it before tbh...</em></div>
   </div>
 
 <div class="quote-card">
@@ -339,11 +339,11 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-   <div class="quote-text">Is passive income really the way you want to make a living? It lacks the excitement that comes from engaging in active work.</div>
+   <div class="quote-text">Is passive income really the way you want to make a living? It lacks the excitement that comes from engaging in active work. Too much 'Make Passive Income' noise.</div>
   </div>
 
 <div class="quote-card">
-   <div class="quote-text"></div>
+   <div class="quote-text"><em>Have you ever worked for a company that plans team outings at exotic places? How is it like sipping that Piña Colada with your coworker at the beach?. Ironically, Corporate always has a lot of money for such extravaganza expenses..</em></div>
   </div>
 
   <div class="footer">
