@@ -262,7 +262,7 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Merritt Family Last Name Origin: In 1940, Laborer and Maid were the top reported jobs for men and women in the USA named Merritt. 17% of Merritt men worked as a Laborer and 7% of Merritt women worked as a Maid. Some less common occupations for Americans named Merritt were Truck Driver and Housekeeper.</div>
+    <div class="quote-text">Merritt Family Last Name Origin: In 1940, Laborer and Maid were the top reported jobs for men and women in the USA named Merritt. 17% of Merritt men worked as a Laborer and 7% of Merritt women worked as a Maid. Some less common occupations for Americans named Merritt were Truck Driver and Housekeeper. <strong>Source: ancestry.com</strong></div>
   </div>
 
 <div class="quote-card">
@@ -310,11 +310,15 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text"><em>We live in the shitposting era..</em></div>
+    <div class="quote-text"><em>Looks like we live in the shitposting era..</em></div>
   </div>
 
 <div class="quote-card">
     <div class="quote-text">Pick any security company and you'll notice their entire eng. dept outsourced. Look at malwarebytes or rapid7 for starters..</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text"><em>Start similar kind of dts series in your local area, maybe give it a different name. Just keep it civil for the most part..</em></div>
   </div>
 
   <div class="footer">
