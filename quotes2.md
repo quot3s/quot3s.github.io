@@ -357,7 +357,7 @@ title: Wisdom & Wit
   </div>
 
   <div class="quote-card">
-    <div class="quote-text">No matter how much you assimilate, your skin color never will. Never forget your roots.</div>
+    <div class="quote-text">No matter how much you assimilate, your biological features never will. Never forget your roots.</div>
   </div>
 
   <div class="quote-card">

@@ -331,7 +331,7 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">How do you explain a 2-year gap in your resume? "Sir, I went hiking up to the mountains to do some soul-searching and find inner-peace. Now, I have changed for the better." Literally, know a coworker who went for a 1-year trip to Nepal but she is white so gets a pass.</div>
+    <div class="quote-text">How do you explain a 2-year gap in your resume? "Sir, I went hiking up to the mountains to do some soul-searching and find inner-peace. Now, I have changed for the better." Literally, know a coworker who went for a 1-year trip to Nepal but she is white and they make visits the East to do hippie things, so she is good.</div>
   </div>
 xc
 
@@ -346,7 +346,6 @@ xc
 <div class="quote-card">
     <div class="quote-text">Reminder -> Chosen one's can troll anyone they like and get away with it.</div>
   </div>
-
 
   <div class="footer">
     <p>© 2025 - Curated with care</p>
