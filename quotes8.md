@@ -330,7 +330,7 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Which way Western Man? Another lame post. Get rid of this <a href="https://x.com/cb_doge"><em>Doge Guy</em>.</a></div>
+    <div class="quote-text">Which way Western Man? Another lame post. Get rid of this <a href="https://x.com/cb_doge"><em>Doge Guy</em>. Bullying Creep.</a></div>
   </div>
 
 <div class="quote-card">
@@ -361,6 +361,13 @@ title: Wisdom & Wit
     <div class="quote-text">Is SF Tech Week only for SF people? Good riddance then. Keep that crap within SF.</div>
   </div>
 
+<div class="quote-card">
+    <div class="quote-text">Different timezones are a tremendous barrier to schedule calls nowadays.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Timezone conversion is soooo hard...</div>
+  </div>
 
   <div class="footer">
     <p>© 2025 - Curated with care</p>
