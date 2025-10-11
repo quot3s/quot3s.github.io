@@ -305,6 +305,10 @@ title: Wisdom & Wit
    <div class="quote-text"><em>Interesting Read</em> — <a href="https://encyclopedia.ushmm.org/content/en/article/the-great-depression">The Great Depression</a>. Hit the <em>Must Reads</em> sections and check out all the other articles as well.</div>
   </div>
 
+<div class="quote-card">
+   <div class="quote-text">Should I put Time-Travel Testing (T3) on my resume? I am a bit shy and hesitant to do so.</div>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
