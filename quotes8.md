@@ -297,6 +297,14 @@ title: Wisdom & Wit
     <div class="quote-text">I had told you earlier that it was going to be biblical. You didn't listen.</div>
   </div>
 
+<div class="quote-card">
+    <div class="quote-text">Don't be afraid to grow you online presence even when big tech and gov. is watching. Increase both follower/following count. Do so unapologetically.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Be the role model or at least follow one.</div>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
