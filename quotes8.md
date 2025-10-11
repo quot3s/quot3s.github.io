@@ -265,6 +265,14 @@ title: Wisdom & Wit
     <div class="quote-text">Merritt Family Last Name Origin: In 1940, Laborer and Maid were the top reported jobs for men and women in the USA named Merritt. 17% of Merritt men worked as a Laborer and 7% of Merritt women worked as a Maid. Some less common occupations for Americans named Merritt were Truck Driver and Housekeeper.</div>
   </div>
 
+<div class="quote-card">
+    <div class="quote-text">Why would a deranged lunatic and his $#%#$^$#$ go on a witchhunt against a nobody?</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Report cyber crimes to <a href="https://x.com/vxunderground/">VXUG</a></div>
+  </div>
+
 
   <div class="footer">
     <p>© 2025 - Curated with care</p>
