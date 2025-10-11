@@ -262,6 +262,54 @@ title: Wisdom & Wit
     <div class="quote-text">I was always cool, Son. You just learnt that now. Late to the party.</div>
   </div>
 
+<div class="quote-card">
+    <div class="quote-text">I need to buy a new suit ASAP. Just landed a consulting gig finally.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Always negotiate multiple offers and go with the one that matches your lifestyle.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text"><em>Reality of life</em> — Beggars are not choosers.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">No one know what's best for you other than you. Always choose yourself.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">$28-$30/hr way below min. wage for smart IT workers.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Don't let someone's low opinion of yours dim your light.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Train Me. Hire Me. And Deploy Me.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Unsubscribe button is how God appears in your life through the digital world.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Master's degree did not train me at all. I need further training on how to operate in the real corperate world.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Apparently, public shaming, creating noise and calling people out is the only way to get things done nowadays. Barbaric and loud voices are heard and immediately paid attention to. Otherwise, your file just sits in a dusty corner dying a slow death.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Mr. Musk could have just hired me in the first place at Tesla/Paypal/X back in the day but rather chose to get distracted by politics and name-calling.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">For some reason, if you are married and have a kid, the whole game changes. Elite treatment. Single folks are crucified, the likes of which you have never seen before.</div>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
