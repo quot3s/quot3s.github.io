@@ -273,6 +273,14 @@ title: Wisdom & Wit
     <div class="quote-text">Report cyber crimes to <a href="https://x.com/vxunderground/">VXUG</a></div>
   </div>
 
+<div class="quote-card">
+    <div class="quote-text">Recruiters post contract info on linkedin with all the specifics and potential job seekers to DM. Through emails, they just send salary rates and an overall update on economy.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Do you also share where you vacationed on LinkedIn?</div>
+  </div>
+
 
   <div class="footer">
     <p>© 2025 - Curated with care</p>

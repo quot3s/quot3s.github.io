@@ -270,7 +270,7 @@ title: Wisdom & Wit
   </div>
 
   <div class="disclaimer">
-    <h1>Quotes 7</h1>
+    <h1>Quotes 8</h1>
     <a href="./quotes8" class="quotes-link">View All Quotes</a>
   </div>
 
