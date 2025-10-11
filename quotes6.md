@@ -322,6 +322,9 @@ title: Wisdom & Wit
     <div class="quote-text">When nerds live in their bubble, they are missing out on the real world.</div>
   </div>
 
+<div class="quote-card">
+    <div class="quote-text">Hey everyone, I support and care for illegals. You came here legally. Lol. Support both. Each have their own merits. Take over the entire country, one immigrant at a time.</div>
+  </div>
 
   <div class="footer">
     <p>© 2025 - Curated with care</p>
