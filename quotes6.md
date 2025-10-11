@@ -359,7 +359,7 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Key Features if you want to sell your robot to me. Must be able to dance and fight.</div>
+    <div class="quote-text">Any robot's key features must include ability to dance and fight.</div>
   </div>
 
 <div class="quote-card">
