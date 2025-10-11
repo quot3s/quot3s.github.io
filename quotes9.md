@@ -360,6 +360,10 @@ title: Wisdom & Wit
 <div class="quote-card">
    <div class="quote-text">If you want job security in your career, use pronouns in your bio. And don't talk shit about DEI, otherwise they will make sure you career will DIE.</div>
   </div>
+  
+<div class="quote-card">
+   <div class="quote-text">Hey everyone, look at me I am so kind and inclusive, I use pronouns in my bio.</div>
+  </div>
 
 <div class="quote-card">
    <div class="quote-text">Who will save the West from self-sabotage?</div>
