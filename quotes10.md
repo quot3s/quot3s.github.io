@@ -366,6 +366,14 @@ title: Wisdom & Wit
    <div class="quote-text">I only shitpost 9-5 UTC Time Mon-Fri with some Saturdays as exceptions.</div>
   </div>
 
+<div class="quote-card">
+   <div class="quote-text">Pick a country where English is not the native language.</div>
+  </div>
+
+<div class="quote-card">
+   <div class="quote-text">Stay in the East while the West get their shit sorted out.</div>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
