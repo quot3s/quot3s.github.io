@@ -337,6 +337,26 @@ title: Wisdom & Wit
    <div class="quote-text">My bad luck is so bad that I end up meeting girls when they are either in their feminist or any sort of activist era..or lesbian and later end up switching their pronouns from they/them to she/her and start liking guys.. few years later check back their insta and the gal settled down with a surprisingly divine feminine glow up.. Like What The Hell, Son!</div>
   </div>
 
+  <div class="quote-card">
+   <div class="quote-text">Even a man can be a hardcore feminist or at least pretend to be one. Lol.</div>
+  </div>
+
+<div class="quote-card">
+   <div class="quote-text">Liberal men is an oxymoron in itself.</div>
+  </div>
+
+  <div class="quote-card">
+   <div class="quote-text">Fashion models are the best cuz they don't go around acting like a feminazi destroying men's lives.</div>
+  </div>
+
+<div class="quote-card">
+   <div class="quote-text">Modern feminism is way too cancerous.</div>
+  </div>
+
+<div class="quote-card">
+   <div class="quote-text">Who will save the West from self-sabotage?</div>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
