@@ -327,6 +327,15 @@ title: Wisdom & Wit
 </div>
 
 <div class="quote-card">
+    <div class="quote-text">When even the landlord monitors your twitter feed and is on snapchat. Really Sad. No privacy at all.</div>
+</div>
+
+<div class="quote-card">
+    <div class="quote-text"><a href="https://audioguide.medievaltorturemuseum.com/chicago/
+    ">Medieval Torture Museum</a></div>
+</div>
+
+<div class="quote-card">
     <div class="quote-text"><em>These marvelous quotes are spontaneous. Not pre-planned or scripted at all as you can tell.</em></div>
   </div>
 
