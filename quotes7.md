@@ -364,9 +364,16 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">hey everyone, look at me I am so cool. I do low-level embedded programming. Lmao.</div>
+    <div class="quote-text">Hey everyone, look at me I am so cool. I do low-level embedded programming. Lmao.</div>
   </div>
 
+<div class="quote-card">
+    <div class="quote-text">Always get your wine from a nearby Eataly store.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">When someone does smart metrics conversion online for you. So caring and inclusive. Somebody give him the nobel peace prize for creating an environment of shared understanding.</div>
+  </div>
 
 <div class="quote-card">
     <div class="quote-text"><em>These marvelous quotes are spontaneous. Not pre-planned or scripted at all as you can tell.</em></div>
