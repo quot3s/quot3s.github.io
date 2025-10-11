@@ -349,7 +349,7 @@ title: Wisdom & Wit
   </div>
 
   <div class="quote-card">
-    <div class="quote-text">When it's get hot, you gotta go to Goa #beachlife</div>
+    <div class="quote-text">When it gets hot, you gotta go to Goa #beachlife</div>
   </div>
 
   <div class="quote-card">

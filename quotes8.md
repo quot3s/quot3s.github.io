@@ -286,11 +286,11 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">If things didn't work out with a company, leave a bad review on glassdoor and move on. Let bygones be bygones.</div>
+    <div class="quote-text">If things didn't work out with any company, leave a bad review on glassdoor and move on. Let bygones be bygones.</div>
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Create an anonymous accout when posting google reviews, especially if they are negative.</div>
+    <div class="quote-text">Create an anonymous account when posting google reviews, especially if they are negative.</div>
   </div>
 
 <div class="quote-card">
@@ -298,7 +298,7 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Don't be afraid to grow you online presence even when big tech and gov. is watching. Increase both follower/following count. Do so unapologetically.</div>
+    <div class="quote-text">Don't be afraid to grow your online presence even when big tech and gov. is watching. Increase both follower/following count. Do so unapologetically.</div>
   </div>
 
 <div class="quote-card">
