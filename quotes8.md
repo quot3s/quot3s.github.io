@@ -382,7 +382,7 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Another extra one.. musketeer hires masketeers only..</div>
+    <div class="quote-text">Yet another extra one—<em>Musketeer only vibes with Masketeers.</em></div>
   </div>
 
   <div class="footer">
