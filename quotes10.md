@@ -334,6 +334,10 @@ title: Wisdom & Wit
    <div class="quote-text">With my blessings, maybe someone might learn about the existence of an ancient language called LISP. <em>Never heard of it before tbh...</em></div>
   </div>
 
+<div class="quote-card">
+   <div class="quote-text">They think they own you if you work for them. Indeed, they do in a materialistic way.</div>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
