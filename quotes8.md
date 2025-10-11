@@ -253,7 +253,7 @@ title: Wisdom & Wit
 
 <a href="https://quot3s.github.io/quotes7" class="nav-link">Prev</a>
 <span style="color: #00ff00; margin: 0 10px;">|</span>
-<a href="htts://quot3s.github.io/quotes9" class="nav-link">Next</a>
+<a href="https://quot3s.github.io/quotes9" class="nav-link">Next</a>
 
 <div class="container">
   <div class="header">
