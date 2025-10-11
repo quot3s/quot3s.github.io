@@ -326,6 +326,10 @@ title: Wisdom & Wit
     <div class="quote-text">Hey everyone, I support and care for illegals. You came here legally. Lol. Support both. Each have their own merits. Take over the entire country, one immigrant at a time.</div>
   </div>
 
+<div class="quote-card">
+    <div class="quote-text">I doubt how did you  a Staff Security Advocate. Did anyone do a medical check? Probably not. The inmates are still running the asylum.</div>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
