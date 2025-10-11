@@ -318,6 +318,10 @@ title: Wisdom & Wit
     <div class="quote-text">I can't help but the South Parker in me is getting out. Never forget South Park came from COLORADO.</div>
   </div>
 
+<div class="quote-card">
+    <div class="quote-text">When nerds live in their bubble, they are missing out on the real world.</div>
+  </div>
+
 
   <div class="footer">
     <p>© 2025 - Curated with care</p>
