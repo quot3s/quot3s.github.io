@@ -298,7 +298,11 @@ title: Wisdom & Wit
   </div>
 
   <div class="quote-card">
-   <div class="quote-text"><em>Somedays, I feel like a veteran who whole-heartedly served his country in his prime years and yet ended up homeless, disrespected and neglected.</em></div>
+   <div class="quote-text">Somedays, I feel like a veteran who whole-heartedly served his country in his prime years and yet ended up homeless, disrespected and neglected.</div>
+  </div>
+
+  <div class="quote-card">
+   <div class="quote-text">Like I have said earlier, you cannot compare first-world problems to third-world problems. Deal with your own problems in your homeland first.</div>
   </div>
 
   <div class="footer">
