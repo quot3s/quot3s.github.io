@@ -286,7 +286,7 @@ title: Wisdom & Wit
   </div>
 
   <div class="quote-card">
-   <div class="quote-text">When your South Indian coworker is jamming to Tollywood at work? Doesn't feel like working in the States. Lol.</div>
+   <div class="quote-text">When your South Indian coworker is jamming to Tollywood at work? Doesn't even feel like you are working in the States. Lol.</div>
   </div>
 
   <div class="quote-card">
@@ -303,6 +303,14 @@ title: Wisdom & Wit
 
   <div class="quote-card">
    <div class="quote-text">Like I have said earlier, you cannot compare first-world problems to third-world problems. Deal with your own problems in your homeland first.</div>
+  </div>
+
+  <div class="quote-card">
+   <div class="quote-text">Go to Sin City at least once in your lifetime. You deserve that much needed pleasure.</div>
+  </div>
+
+  <div class="quote-card">
+   <div class="quote-text">Go to Sin City at least once in your lifetime. You deserve that much needed pleasure.</div>
   </div>
 
   <div class="footer">
