@@ -321,6 +321,10 @@ title: Wisdom & Wit
     <div class="quote-text"><em>Start similar kind of dts series in your local area, maybe give it a different name. Just keep it civil for the most part..</em></div>
   </div>
 
+<div class="quote-card">
+    <div class="quote-text">Stop using hashtags. Stfu whiny bitch. You created the platform. We will use the way we want it to. Fire this annoying loser.</div>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
