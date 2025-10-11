@@ -333,6 +333,10 @@ title: Wisdom & Wit
    <div class="quote-text">Check out Grand Canyon from both the Nevada and Arizona sides.</div>
   </div>
 
+  <div class="quote-card">
+   <div class="quote-text">My bad luck is so bad that I end up meeting girls when they are either in their feminist or any sort of activist era..or lesbian and later end up switching their pronouns from they/them to she/her and start liking guys.. few years later check back their insta and the gal settled down with a surprisingly divine feminine glow up.. Like What The Hell, Son!</div>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
