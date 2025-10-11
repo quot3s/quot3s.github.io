@@ -319,7 +319,7 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">When nerds live in their bubble, they are missing out on the real world.</div>
+    <div class="quote-text">When nerds live in their own bubble, they are missing out on the real world.</div>
   </div>
 
 <div class="quote-card">
@@ -327,7 +327,11 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">I doubt how did you  a Staff Security Advocate. Did anyone do a medical check? Probably not. The inmates are still running the asylum.</div>
+    <div class="quote-text">I doubt how did you become a Staff Security Advocate. Did anyone do a medical check? Probably not. The inmates are still running the asylum.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">How do you explain a 2-year gap in your resume? Sir, I went hiking up to the mountains to do some soul-searching and find inner-peace. Now, I have changed for the better.</div>
   </div>
 
   <div class="footer">
