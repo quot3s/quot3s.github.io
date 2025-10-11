@@ -339,11 +339,11 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-   <div class="quote-text">Is passive income really the way you want to make a living? It lacks the excitement that comes from engaging in active work. Too much <em>Make Passive Income Noise</em>.</div>
+   <div class="quote-text">Is passive income really the way you want to make a living? It lacks the excitement that comes from engaging in active work. Too much <em>Make Passive Income Noise</em> lately.</div>
   </div>
 
 <div class="quote-card">
-   <div class="quote-text"><em>Have you ever worked for a company that plans team outings at exotic places? What is it like, sipping that Piña Colada with your coworker in a bikini at the beach?. Ironically, Corporate always has a lot of money for such extravaganza expenses..</em></div>
+   <div class="quote-text"><em>Have you ever worked for a company that plans team outings at exotic places? What is it like, sipping that Piña Colada with your coworker in a bikini at the beach? Ironically, Corporate always has a lot of money for such extravaganza expenses..</em></div>
   </div>
 
 <div class="quote-card">
@@ -359,7 +359,7 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-   <div class="quote-text"><em>Evil people often showcase themselves as the true saviors or messiahs that the world needs to continue to exist.</em></div>
+   <div class="quote-text"><em>Evil people often showcase themselves as the true saviors or messiahs that the world needs to survive.</em></div>
   </div>
 
 <div class="quote-card">
