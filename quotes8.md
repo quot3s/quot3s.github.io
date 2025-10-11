@@ -313,6 +313,10 @@ title: Wisdom & Wit
     <div class="quote-text"><em>We live in the shitposting era..</em></div>
   </div>
 
+<div class="quote-card">
+    <div class="quote-text">Pick any security company and you'll notice their entire eng. dept outsourced. Look at malwarebytes or rapid7 for starters..</div>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
