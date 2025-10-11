@@ -322,6 +322,18 @@ title: Wisdom & Wit
    <div class="quote-text">When they can't manipulate you anymore, they label you as a 'Threat Actor'.</div>
   </div>
 
+<div class="quote-card">
+   <div class="quote-text">Trust me. Nobody wants to work for the 3 Big Musketeers even in a parallel universe. They just admire the fat paycheck. Get that right first.</div>
+  </div>
+
+<div class="quote-card">
+   <div class="quote-text">You could have had me back then, Son. But you chose to listen to HR or whatever community you are part of.</div>
+  </div>
+
+<div class="quote-card">
+   <div class="quote-text">With my blessings, maybe someone might learn about the existence of an ancient language called LISP. <em>Never heard of it before tbh...</em></div>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
