@@ -345,6 +345,10 @@ title: Wisdom & Wit
    <div class="quote-text">Liberal men is an oxymoron in itself.</div>
   </div>
 
+<div class="quote-card">
+   <div class="quote-text">Modern women would rather pander to their bosses and corporate masters rather than to their husbands. Housewives are going out of fashion and divorce rates are skyrocketing.</div>
+  </div>
+
   <div class="quote-card">
    <div class="quote-text">Fashion models are the best cuz they don't go around acting like a feminazi destroying men's lives.</div>
   </div>
