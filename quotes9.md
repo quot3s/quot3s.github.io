@@ -297,6 +297,10 @@ title: Wisdom & Wit
    <div class="quote-text">Oooh! I am sooo attracted to the dollar. Dollar is sooo goood.. it will make me more amd more richer.. <em>$$$$ Is All I Need $$$$</em></div>
   </div>
 
+  <div class="quote-card">
+   <div class="quote-text"><em>Somedays, I feel like a veteran who whole-heartedly served his country in his prime years and yet ended up homeless, disrespected and neglected.</em></div>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
