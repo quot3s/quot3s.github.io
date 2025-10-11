@@ -323,6 +323,10 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
+    <div class="quote-text">Online leasing — Big Red Flag (BRF). Paperwork is the way to go. They handle it the old-fashioned way..</div>
+</div>
+
+<div class="quote-card">
     <div class="quote-text"><em>These marvelous quotes are spontaneous. Not pre-planned or scripted at all as you can tell.</em></div>
   </div>
 
