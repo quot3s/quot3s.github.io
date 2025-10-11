@@ -342,7 +342,7 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Should recruiters who ghost you be given a death penalty like the good ol' days?</div>
+    <div class="quote-text">Should recruiters who ghost you—like the good ol' days—be given a death penalty?</div>
   </div>
 
 <div class="quote-card">
@@ -351,6 +351,10 @@ title: Wisdom & Wit
 
 <div class="quote-card">
     <div class="quote-text">Looks like Nvidia is cheerleading hard for Mr. Musk's xAI.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">When they leak all those corporate chats even after you leave, to prove that you are incompetent. Bruh, I was slacking intentionally to get eventually fired from that lame ass job..</div>
   </div>
 
   <div class="footer">
