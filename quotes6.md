@@ -294,6 +294,14 @@ title: Wisdom & Wit
     <div class="quote-text">Meet Macrohard. Microsoft's arch nemesis.</div>
   </div>
 
+<div class="quote-card">
+    <div class="quote-text">Will Grok's latest update put the adult industry out of business?</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">READ THIS. Fuck off malware whores along with your bitches.</div>
+  </div>
+
 
   <div class="footer">
     <p>© 2025 - Curated with care</p>
