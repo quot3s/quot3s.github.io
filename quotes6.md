@@ -271,7 +271,23 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Who invented byteMeCoin?</div>
+    <div class="quote-text">Hey everyone, I am going to classical music concert tonight. LMAO.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">I am so elite. I have high taste in classical music.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">He who shuts the fuck up on a Monday is whom I respect a lot.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">You pick the scums of the Earth.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Only Christ can save you, Son.</div>
   </div>
 
   <div class="footer">
