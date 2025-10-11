@@ -295,11 +295,19 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-    <div class="quote-text">Will Grok's latest update put the adult industry out of business?</div>
+    <div class="quote-text">Will Grok's latest update put the adult industry out of business? Is this the new way of getting that steam out?</div>
   </div>
 
 <div class="quote-card">
     <div class="quote-text">READ THIS. Fuck off malware whores along with your bitches.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Your ATS can't pick up a foreign degree from a well-renowned uni. Joke is on you.</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text">Back then they said get a degree to land a 9-5 gig. Now tha'ts not needed.</div>
   </div>
 
 
