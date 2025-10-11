@@ -381,6 +381,10 @@ title: Wisdom & Wit
     <div class="quote-text">Is SF Tech Week only for SF people? Good Riddance.. Keep that crap within SF..</div>
   </div>
 
+<div class="quote-card">
+    <div class="quote-text">Another extra one.. musketeer hires masketeers only..</div>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
