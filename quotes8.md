@@ -305,6 +305,14 @@ title: Wisdom & Wit
     <div class="quote-text">Be the role model or at least follow one.</div>
   </div>
 
+<div class="quote-card">
+    <div class="quote-text">Why does social media shitposters have an insane level of following?</div>
+  </div>
+
+<div class="quote-card">
+    <div class="quote-text"><em>We live in the shitposting era..</em></div>
+  </div>
+
   <div class="footer">
     <p>© 2025 - Curated with care</p>
   </div>
