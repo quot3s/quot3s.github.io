@@ -323,7 +323,7 @@ title: Wisdom & Wit
   </div>
 
 <div class="quote-card">
-   <div class="quote-text">Trust me. Nobody wants to work for the 3 Big Musketeers even in a parallel universe. They just admire the fat paycheck. Get that right first.</div>
+   <div class="quote-text">Trust me. Nobody wants to work for the 3 Big Musketeers even in a parallel universe. They all just admire the fat paycheck. Get that right first.</div>
   </div>
 
 <div class="quote-card">
@@ -336,6 +336,14 @@ title: Wisdom & Wit
 
 <div class="quote-card">
    <div class="quote-text">They think they own you if you work for them. In a materialistic sense, they do own you.</div>
+  </div>
+
+<div class="quote-card">
+   <div class="quote-text">Is passive income really the way you want to make a living? It lacks the excitement that comes from engaging in active work.</div>
+  </div>
+
+<div class="quote-card">
+   <div class="quote-text"></div>
   </div>
 
   <div class="footer">
